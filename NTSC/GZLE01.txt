@@ -1,0 +1,855 @@
+[GZLE01] The Legend of Zelda: The Wind Waker (NTSC-U)
+
+Manual Camera: Regular Controls [Ralf]
+GA8Y-1WXC-GH2ZT
+51DW-YKM4-57F8W
+
+Fixed Camera Position On/Off (Press DPad Down + B/R) [Ralf]
+7A6F-FAX5-N2915
+GBKR-U5VB-74T2D
+XYC4-FBP1-UD4KA
+F9RZ-M437-13GJ8
+WQKW-GHR7-UDTH9
+
+Subject Camera: Regular Controls [Ralf]
+3452-6PM4-ZV8J0
+0GPM-ZETV-CEEPM
+DQH9-H7CY-GFPTN
+QJ07-A3YP-YJNWA
+PKVU-EDZH-8WMUK
+
+16:9 Aspect Ratio (Widescreen) [Ralf]
+D3MC-RD04-JACXK
+G1N3-CXH2-TMF6K
+
+Never Lose Health (Improved) [Ralf]
+M1A6-CU9U-189KX
+96TT-0VV1-P62TH
+NWY5-QHZB-PVD4P
+6VNY-VTRM-WKN1X
+WMKZ-BB87-Z1YFP
+KU13-0M21-ANARX
+XPEV-WJRW-YW85J
+
+Die In One Hit (Improved) [Ralf]
+UNNP-6V5X-509KK
+NWGD-C3B2-3F4XD
+MW0K-GTH3-5ZCYW
+XP16-X3BZ-NH607
+JA5W-YE5M-PC0MG
+1A7V-GRRK-7QD5R
+J6FY-JTMG-22Q7Z
+EP2T-G3HR-1TEWZ
+0YW7-4XQY-Z5WAN
+JA08-9585-1UNB9
+
+Super Fast Arrows [Ralf]
+9PUJ-DBJZ-QK9T2
+N08X-07UC-C538P
+
+Super Slow Arrows [Ralf]
+2P2Y-GDHN-BQZXM
+FY2Y-W86B-V7BXX
+
+Can Use Items Almost Anywhere [Ralf]
+BNR0-N3YF-NJ192
+4G21-QTR3-WTUD7
+
+Super Hookshot [Ralf]
+H4DC-JUNC-T3U9X
+08YN-P52Y-PA73J
+6A0C-C4WQ-XVXRJ
+5REY-EAJ8-D21XR
+
+Moon Jump (Hold DPad Down) [Ralf]
+PN41-WYPU-0VCAT
+WR03-BF1W-D9DBD
+T302-ZVYT-5JMHJ
+
+Climb Wall On/Off (Press L + DPad Left/Right) [Ralf]
+TV85-VH5Z-GQ9WT
+N907-F2YA-MX33W
+9V9B-92PH-MAHHW
+8C1W-W49C-E5HAF
+ZMVW-202D-TP8MC
+
+Most Warp Pots Open [Ralf]
+PTM6-2V9K-ZVXJW
+CJ20-N3WA-8KQJ8
+PPTP-8RGE-8AC4Z
+WM9R-9K71-CF49B
+YXBA-7FZM-QBFMC
+FXQV-TP8F-FD6N8
+RGGJ-5E80-10Y4H
+KGWZ-4V7R-Q2XD6
+6ZCN-3VHK-9V9WM
+VXYY-64WW-MGMNZ
+CZRC-8A9Q-EX1KD
+HNAX-1F2N-DVVCT
+XT2R-DKKU-B2VWP
+
+Crawl Really Fast [Ralf]
+5ZR2-7UCU-F5YAN
+XJTY-5TEE-DJNMH
+
+Climb Really Fast [Ralf]
+0WGG-B03Z-TVDKM
+Y53V-WQBF-5FR5Q
+6BBH-1JTH-HQV7T
+2YVR-6MB2-1NJBY
+
+No Recovery Hearts [Ralf]
+WWZX-8B51-U10K1
+739W-TF4Y-JUFGJ
+
+Replace Single Recovery Hearts With Triple Recovery Hearts [Ralf]
+51X8-FTEC-QY65X
+NTAA-2WAH-M0G9P
+7UCC-B20P-58TAB
+7E4G-VGAR-XPWKY
+ECNT-K57H-MTW38
+BKXA-11W4-C3TAN
+X43B-H1UQ-MB4HM
+V5ED-G8P7-0XF0J
+
+Hero Mode [Ralf]
+H16C-A44W-RY5EB
+96TT-0VV1-P62TH
+NWY5-QHZB-PVD4P
+6VNY-VTRM-WKN1X
+14WW-5NZ2-UQG4C
+KU13-0M21-ANARX
+739W-TF4Y-JUFGJ
+XPEV-WJRW-YW85J
+
+Hero Mode: No recovery hearts & Link takes double damage.
+
+Chance Mode (Sword) [Ralf]
+8646-PFD0-1DNVZ
+2H7K-0YGY-BJWKB
+
+Super Roll Jump (Press R) [Ralf]
+AZUN-MV0R-RN4NY
+XJU3-DM47-FK6EA
+AEZJ-4K08-3H1HH
+NUXE-7E66-1AV9V
+5Y7Q-72EE-M7AZ7
+
+Walk Through Small Trees & Bushes [Ralf]
+1E2P-5TQ3-8XHYH
+CEUM-7P92-MNHVM
+
+Link Is Exhausted [Ralf]
+ZBYD-V42T-V45KQ
+XZAJ-51UW-1TVWG
+
+Enemies Have Fire Attack Attribute [Ralf]
+X73W-7KEK-N4YU8
+9W8W-WYZ3-1EDMM
+
+Enemies Have Curse Attack Attribute [Ralf]
+Y05Z-RZAF-D77HU
+DCB0-QJU7-67VBM
+
+Enemies Have Thunder Attack Attribute [Ralf]
+6U96-3ACX-CJAX4
+A08H-E3WZ-W0NP1
+
+Enemies Have No Attack Attributes [Ralf]
+TFXE-WRB0-WG0WB
+WT7B-NUZ6-8RQGZ
+
+Enemies Have Random Attack Attributes [Ralf]
+8VUN-MJY1-DDZCT
+9PBM-JJEU-UBX53
+30GM-H1GN-YZ4JF
+P4AA-6J0D-MQ30K
+6Z4E-WKPN-7HZ9Z
+9W8W-WYZ3-1EDMM
+D0XQ-HZAC-HUKX5
+DCB0-QJU7-67VBM
+TJUD-D03J-FB3JE
+A08H-E3WZ-W0NP1
+
+Items Don't Disappear [Ralf]
+E04F-04RZ-AF06F
+GN63-AB6R-4419Q
+
+Items Disappear Immediately [Ralf]
+5FH8-09AR-BXU1M
+C4PB-XP68-X1X8G
+
+No Heart Beeping Noise [Ralf]
+9ARQ-Z6KY-T8V8W
+FR19-4KD0-86RWY
+
+Boat: Moon Jump (Hold R) [Ralf]
+WZ4Q-29F8-RRUBP
+9DKR-NNF4-VT7NV
+RXJ3-FPPP-4KFAW
+V35B-1HA9-PRQC1
+
+Boat: Moon Jump v2 (Hold R) [Ralf]
+30KN-V165-CMWY9
+K972-FU6G-31B01
+D9A9-TJ7X-768EF
+ZZKU-81Y8-R6RCU
+C4V0-2PFN-10Z17
+RG4U-4QAQ-VH4GC
+Z3UF-0MH1-MXGGN
+F791-3P90-0N7AD
+NBGV-C36C-07VHH
+ERWT-KFEK-P71TA
+RXJ3-FPPP-4KFAW
+VAP5-8CY0-YQPUF
+
+No Grass [Ralf]
+FW38-NDPY-Z9Q3M
+W0ZN-69YZ-4688B
+
+No Flowers [Ralf]
+MPYU-4K6T-RXWZT
+CNQ3-VDNW-C1T5F
+
+No Bushes [Ralf]
+J7H3-DXV7-F2W20
+G54X-MEH8-Q77EB
+
+No Small Trees [Ralf]
+Y84M-1BNJ-M51PK
+9683-N8GN-PMYDD
+
+Walk Fast With Iron Boots [Ralf]
+1YQA-J2AQ-2ANE1
+01BA-W7MK-YA747
+
+Link Wears Mystical Charm [Ralf]
+PPKP-1P2X-MBF3M
+7J70-A0EX-NZQRW
+
+Link Wears Hero Clothes (2nd Playthrough) [Ralf]
+FUEG-KB83-JU1D4
+F7RD-MJRX-J1V1H
+
+Phantom Ship Weather [Ralf]
+NQ2B-FRVH-UEPXY
+RK2N-YJDZ-5TDF8
+
+Overheated Link [Ralf]
+PZDB-96GU-6UY73
+0600-NNZD-ZP3PW
+
+Walk Through Walls On/Off (Press B + DPad Left/Right) [Ralf]
+FGDJ-QPNZ-WN86F
+ZDDX-UDU5-J28AF
+YT0J-3H3Z-K78MK
+E36B-Q3TG-ZXETG
+Z1QD-B136-5JHGA
+MZFN-WY84-6DWE6
+CADM-Q9F5-4F72M
+
+Jesus Mode On/Off (Press B + DPad Up/Down) [Ralf]
+5AYC-11T0-C72Q8
+Z21H-62EF-W83ZV
+WG51-2ZBQ-4H6JE
+X2NN-1A21-K9EF6
+N7P7-GFUJ-18BER
+AEAV-0B99-QN8CM
+0ZWU-K0H6-CUTCC
+PX1H-C4M9-EXCR6
+PXYR-WAC4-TJRA5
+F9RZ-M437-13GJ8
+KR8J-1GTF-7AFFM
+
+No Blur [Ralf]
+91KD-2D17-JCYTC
+8U71-04A9-DVKBC
+PBHC-Y5NR-GDQ5E
+
+Blur On/Off (Press A + DPad Up/Down) [Ralf]
+6DHJ-178W-VDRZG
+YGZV-6H9Y-XF5VV
+B6KX-4WDK-CDVBR
+R86X-N5DB-TQ1VQ
+EZ9P-XKP3-5GDJW
+8U71-04A9-DVKBC
+PBHC-Y5NR-GDQ5E
+
+No Fog & Haze Effects [Ralf]
+PZ1T-JR86-QWZQ2
+TU6C-GBYU-GF6NB
+
+Monochrome Mode [Ralf]
+QPQT-YDFE-01M6W
+YK99-D6DD-2PT9P
+8U71-04A9-DVKBC
+CTV9-EEZ9-454RA
+2R67-J4P0-6A27M
+
+Note: Don't use with 'No Blur' code.
+
+Link: Aura Mode [Ralf]
+7W0R-MF9U-3FNAA
+K5V1-WVAE-M3FUD
+
+Link: Super Speed [Ralf]
+Q7PD-GWKD-AVBYQ
+MCCG-FJ87-XKB6N
+2P32-P9A6-J9MZ4
+
+Telescope: Super Zoom [Ralf]
+DBQ6-2B5C-T3QPJ
+R4RF-53JV-3PXQ5
+HBVD-5P71-JZ34P
+JH2V-A7GZ-AKC4F
+RZ6V-6UE9-881V3
+
+R Button: Call/Crouch (Press A + DPad Up/Down) [Ralf]
+847Q-FKHV-BTXKD
+HT47-2TRP-BG3UK
+F6MB-91KE-JY3FX
+2J00-Y4XW-45MWE
+83YJ-FD8M-F3T21
+
+Play As Crystal Link [Ralf]
+MXQY-8F1K-F7HZ2
+DE31-DHQE-162AD
+8BJG-VAYK-8EF5H
+CT7A-Q5CN-M1UK5
+
+Play As Paper Link (X Axis) [Ralf]
+MJMV-Z0XA-TG2ZE
+5JVA-P62D-HKRAV
+
+Play As Paper Link (Z Axis) [Ralf]
+CNJE-886Z-F6GAQ
+965K-2BRE-1XRVT
+
+Play As Missing Link On/Off (Press B + DPad Left/Right) [Ralf]
+87FP-W1WQ-5U4KG
+QTKT-PX81-KYDVH
+MYQK-DTC9-2KCMG
+4WBT-MAJK-JMTVM
+X9R8-NZN6-MVMCX
+
+Crazy Link [Ralf]
+0QGG-QWEN-D021F
+PNEN-ZCUK-ECJEW
+2WXP-0HQV-DBEMX
+
+Wet Link [Ralf]
+E6GD-4C5Q-7EBHK
+QQ30-844T-ZTPG0
+AGQ3-U3PF-ER0GE
+85CJ-8DAU-DWW26
+HXBB-DYDP-5246G
+GP7U-Z18G-C55UP
+
+Mirror Shield Effect On/Off (Press B + DPad Up/Down) [Ralf]
+76Z8-79VG-6TXAR
+PX1H-C4M9-EXCR6
+58TN-EY6V-X1GX6
+F9RZ-M437-13GJ8
+TA8T-9WH2-7MJF6
+
+Mail Sorter: 50 Letters Sorted [Ralf]
+2XYP-4E5Y-M9KVN
+EQXU-2D1J-GQKZV
+
+Mail Sorter: 999 Letters Sorted [Ralf]
+PMR1-RMQR-1ZAQQ
+T3XP-WD6V-R53D1
+
+Enable Map Select (Press RESET) [Ralf]
+WDHY-AGH6-PCZ02
+NDK6-DGH3-HBX69
+CDQR-BR1Z-A59MF
+3NQ0-R8YU-5PCZU
+F97N-G9UT-5C5TH
+H90N-6TZ1-B5KWK
+Z61V-6537-90302
+P5EN-V6R5-KRCW2
+
+Map Select: Choose Language (Press Z) [Ralf]
+DUGC-MKAH-UQK3J
+32F0-YPTX-9GWAW
+F9MP-E12H-KV1VQ
+
+Debug Console On/Off (Press Z) [Ralf]
+RU4Z-ZKDX-113V3
+VDDJ-A9GX-RX3F4
+W2MQ-3588-U9GZK
+ZWEG-EHM5-PB8C6
+UEJ1-JQYB-P2Q4P
+R0V7-F2AG-31GQ4
+XXZJ-0BQE-3RGKK
+R22J-VZT3-M5K8H
+HFP1-EFGH-3JGG9
+
+Debug Console On/Off v2 (Press Z) [Ralf]
+V91A-M7E7-XAAUB
+VDDJ-A9GX-RX3F4
+W2MQ-3588-U9GZK
+ZWEG-EHM5-PB8C6
+UEJ1-JQYB-P2Q4P
+R0V7-F2AG-31GQ4
+XXZJ-0BQE-3RGKK
+R22J-VZT3-M5K8H
+HFP1-EFGH-3JGG9
+B643-3A4D-ZG3AF
+
+Control Keys
+
+Press Z to open and close console window.
+Hold L+R and press A to enable debug output to console window.
+Hold L+R and press Stick Up/Down to scroll debug output up and down.
+Hold L+R and press X+Y+START to clear console window.
+Hold L+R and press X+Stick Left/Right to move console window left and right.
+Hold L+R and press Y+Stick Up/Down to move console window up and down.
+Press DPad Left/Up/Right to switch through debug pages.
+
+Hold R and press Z to show and hide debug info text.
+Hold L and press Z to to switch through debug info text.
+
+
+Weather Modifier
+
+Rain [Ralf]
+043E5474 000000xx
+
+xx = 00 .. FA
+
+00 = No Rain
+01 = Light Rain
+FA = Heavy Rain
+
+No Rain [Ralf]
+T45U-121Y-Z4CD4
+B46W-0K1F-UPRYW
+
+Medium Rain [Ralf]
+ZYJ7-ERYN-JHZFT
+6T4T-T7PX-HC845
+
+Heavy Rain [Ralf]
+R7GY-VDE4-M76A5
+9CKP-0K5H-1EEM5
+
+
+Snow [Ralf]
+043E5480 000000xx
+
+xx = 00 .. FA
+
+00 = No Snow
+01 = Light Snow
+FA = Heavy Snow
+
+No Snow [Ralf]
+8Q1P-U3Q3-7HC31
+Z0TJ-NHGP-3T8NA
+
+Medium Snow [Ralf]
+B65B-P0C9-Q24CB
+RT2Z-B7FW-WWPN9
+
+Heavy Snow [Ralf]
+VYN1-MUP7-67U7Q
+BYTE-25RN-68RXJ
+
+
+Pollen [Ralf]
+043E54A8 000000xx
+
+xx = 00 .. FA
+
+00 = No Pollen
+01 = Light Pollen
+FA = Heavy Pollen
+
+
+No Pollen [Ralf]
+T008-32C5-X04EK
+KR1A-25NE-Y15YA
+
+Medium Pollen [Ralf]
+6RJF-5K8H-9VJRH
+1H6E-0G82-17BDN
+
+Heavy Pollen [Ralf]
+J01Z-ABXR-C3XV7
+3C63-MXNK-CH7QU
+
+
+Lightning [Ralf]
+043E54E8 000000xx
+
+xx = 00 .. 0A
+
+00 = No Lightning
+01 .. 0A = Lightning
+
+Lightning [Ralf]
+U4T6-TDK5-0ZKTZ
+EVM3-WY2F-JBK52
+
+
+Clouds [Ralf]
+003E5739 000000xx
+
+xx = 00 .. 02
+
+00 = Light Clouds
+01 = Medium Clouds
+02 = Heavy Clouds & Fog
+
+Light Clouds [Ralf]
+12T1-QYEV-9PY28
+DF1B-4KNB-WENPU
+
+Medium Clouds [Ralf]
+V5VZ-FC6R-Q6YQ1
+BQFV-9ZA4-PX36V
+
+Heavy Clouds & Fog [Ralf]
+ET3E-Z97F-2V49E
+V5BM-46DV-UGCDH
+
+
+Wind [Ralf]
+043E544C xxxxxxxx
+
+xxxxxxxx = Wind Force (IEEE-754 SP Floating-Point Number, default = 3E99999A = 0.3 dec)
+
+No Wind [Ralf]
+6PV1-52QK-DKA0X
+NMFK-Y6KU-TJ4GZ
+
+Hurricane [Ralf]
+C24G-09PD-CUF03
+JYKU-MH8U-UDEJW
+
+
+Stars [Ralf]
+043E5490 xxxxxxxx
+
+xxxxxxxx = IEEE-754 SP Floating-Point Number
+
+00000000 = No Stars
+3F800000 = Stars
+
+
+No Stars [Ralf]
+9AH1-XM84-8JJRY
+95GZ-3V1R-9YW69
+
+Stars [Ralf]
+U4NZ-1JJW-HA78Y
+HE14-P6BW-YZ5G9
+
+
+Delivery Bag Item Modifier [Ralf]
+003C4C8E 000000xx - Slot 1
+003C4C8F 000000xx - Slot 2
+003C4C90 000000xx - Slot 3
+003C4C91 000000xx - Slot 4
+003C4C92 000000xx - Slot 5
+003C4C93 000000xx - Slot 6
+003C4C94 000000xx - Slot 7
+003C4C95 000000xx - Slot 8
+
+xx = Item ID
+
+
+Item IDs
+
+8C - Town Flower
+8D - Sea Flower
+8E - Exotic Flower
+8F - Hero's Flag
+
+90 - Big Catch Flag
+91 - Big Sale Flag
+92 - Pinwheel
+93 - Sickle Moon Flag
+94 - Skull Tower Idol
+95 - Fountain Idol
+96 - Postman Statue
+97 - Shop Guru Statue
+98 - Father's Letter
+99 - Note to Mom
+9A - Maggie's Letter
+9B - Moblin's Letter
+9C - Cabana Deed
+9D - Complimentary ID
+9E - Fill-Up Coupon
+
+FF - Empty Slot
+
+
+Have All Letters In Delivery Bag (Slots 1-4) [Ralf]
+TBRZ-VD2Q-MANCJ
+UZEK-C9DV-WH7FT
+XWBG-GTVQ-NEXD6
+
+Have Father's Letter In Delivery Bag (Slot 5) [Ralf]
+Z5GE-QYN4-WKDFV
+PR25-UWVK-P3PEF
+
+Have Note to Mom In Delivery Bag (Slot 6) [Ralf]
+66NM-49G7-6EZAQ
+GPTR-J31V-JRRE4
+
+Have Maggie's Letter In Delivery Bag (Slot 7) [Ralf]
+G15U-QJBW-6D59V
+XTFZ-CCQD-KXQK7
+
+Have Moblin's Letter In Delivery Bag (Slot 8) [Ralf]
+CRD9-57EW-42CXX
+E1C7-3J2J-YAB5U
+
+
+Background Music Volume Modifier [Ralf]
+043F6588 xxxxxxxx
+043F6594 yyyyyyyy
+043F65A0 zzzzzzzz
+
+xxxxxxxx = BGM Default Volume (IEEE-754 SP Floating-Point Number, Default: 3F800000 = 1.0)
+yyyyyyyy = BGM Talking Volume (IEEE-754 SP Floating-Point Number, Default: 3F000000 = 0.5)
+zzzzzzzz = BGM Pausing Volume (IEEE-754 SP Floating-Point Number, Default: 3E99999A = 0.3)
+
+
+Disable Background Music [Ralf]
+WMF3-H8ED-BKT8H
+504K-Y28K-VHVB9
+
+Background Music Modifier [Ralf]
+04004D00 3FA08000
+04004D04 63BDxxxx
+04004D08 4829E7B8
+042A34BC 4BD61844
+
+xxxx = Song ID (0000 .. 0152)
+
+
+Play Song #44 [Ralf]
+NT1R-HG1G-3MEQ1
+G5H9-WC6X-XNKU8
+U6PJ-EC1C-MAMJV
+C0UY-RV1T-KR1GF
+19XM-N80D-ZK3UG
+
+
+Characters Shader Color Modifier [Ralf]
+041913BC 987C0000
+041913E8 987C0001
+04191414 987C0002
+0419143C 987C0003
+04191464 987C0004
+0419148C 987C0005
+041913B8 386000dr
+041913E4 386000dg
+04191410 386000db
+04191438 386000lr
+04191460 386000lg
+04191488 386000lb
+
+Dark
+
+dr = Red   (00 .. FF)
+dg = Green (00 .. FF)
+db = Blue  (00 .. FF)
+
+Light
+
+lr = Red   (00 .. FF)
+lg = Green (00 .. FF)
+lb = Blue  (00 .. FF)
+
+
+Sky Color Modifier [Ralf]
+041919AC 386000nr
+041919D4 386000ng
+041919FC 386000nb
+04191BCC 386000fr
+04191BF4 386000fg
+04191C1C 386000fb
+
+Clouds Color Modifier [Ralf]
+04191B54 386000nr
+04191B7C 386000ng
+04191BA4 386000nb
+04191AB4 386000fr
+04191ADC 386000fg
+04191B04 386000fb
+
+Land Color Modifier [Ralf]
+041914BC 987C0006
+041914E4 987C0007
+0419150C 987C0008
+04191534 987C0009
+0419155C 987C000A
+04191584 987C000B
+04191530 386000nr
+04191558 386000ng
+04191580 386000nb
+041914B8 386000fr
+041914E0 386000fg
+04191508 386000fb
+
+Sea Color Modifier [Ralf]
+04191624 987C000F
+0419164C 987C0010
+04191674 987C0011
+04191620 386000nr
+04191648 386000ng
+04191670 386000nb
+04191A2C 386000fr
+04191A54 386000fg
+04191A7C 386000fb
+
+Near
+
+nr = Red   (00 .. FF)
+ng = Green (00 .. FF)
+nb = Blue  (00 .. FF)
+
+Far
+
+fr = Red   (00 .. FF)
+fg = Green (00 .. FF)
+fb = Blue  (00 .. FF)
+
+
+Black Characters [Ralf]
+V12K-V28T-BNYU2
+03TN-1Z4M-0TQYR
+78PH-7FJZ-QPCV0
+2U4G-FPDN-U86UR
+
+Pink Sky [Ralf]
+68GY-0088-21M18
+1W30-11MA-JBWRH
+5D51-0ZUJ-C4J98
+T3C7-6G6Z-85HZY
+XP5R-W6T3-T6QP4
+A5CC-6CXJ-PEUC8
+9X2E-6ZMW-KBW20
+
+Red Clouds [Ralf]
+J8M5-727E-TX0JC
+ZWDE-85EW-2WTNK
+HK5U-5JFP-BPVR1
+UJU4-GVBY-CA9ZJ
+UJJ3-RCFD-WC4G4
+Z7HB-W5XR-ZGFHJ
+ZDZ3-77JC-Z5UZM
+
+Green Land [Ralf]
+7M75-ZYFH-66MEC
+YXXG-EVGF-1K174
+Y1AC-XVXU-J7YGF
+4RXM-KC0A-N73MQ
+2J0P-QMNN-4181F
+5RE1-7QBR-70VA4
+WKUV-E2RE-QN5WA
+3MC5-G0AB-9K00K
+A2M8-UD2C-JG3QY
+7T3P-V46P-CE956
+F4FH-F3BD-XRU48
+T61A-VB9Y-P96Y9
+UPJ9-TEUZ-1ZJ42
+
+Light Blue Sea [Ralf]
+F5DC-M7GZ-NBHUT
+4H86-A23U-BYXQB
+KYRM-PDYH-7EV7V
+V2H8-9620-3T41X
+H3HV-5Y9P-4DGWD
+VVB0-KU5K-R15DH
+RFKA-MWZN-2E5RC
+67Q6-P2GH-GT087
+EBHA-D9T2-1KK36
+3825-FPDN-1WUWT
+
+
+Always Day & Night Change [Ralf]
+VPFH-Q4NW-18AXC
+C80P-2VTE-CXHK3
+
+Day & Night Time Modifier [Ralf]
+043C4C2C xxxxxxxx
+
+xxxxxxxx = Time (IEEE-754 SP Floating-Point Number, 0.0 - 360.0)
+
+00000000 (000.0) = 00:00
+42B40000 (090.0) = 06:00
+42D20000 (105.0) = 07:00 (Dawn)
+43340000 (180.0) = 12:00
+43870000 (270.0) = 18:00
+438E8000 (285.0) = 19:00 (Dusk)
+43B40000 (360.0) = 24:00
+
+
+Dawn [Ralf]
+V0H2-AFZZ-37EUM
+Z434-FH52-R2B8D
+
+Highnoon [Ralf]
+MDD5-2830-TMV2R
+D1A4-J509-U0GA8
+
+Dusk [Ralf]
+RKP7-Y847-7MTYV
+EVA2-AT34-U5T0R
+
+Night [Ralf]
+WU9U-VD5T-X9PA9
+V8HH-7BRA-GY500
+
+
+Weapon Attack Power Modifier [Ralf]
+04004C70 380000xx
+04004C74 981F0008
+04004C78 801F0004
+04004C7C 480AA2B0
+040AEF28 4BF55D48
+
+xx = Attack Power (00 .. 7F)
+
+
+Super Powerful Weapons [Ralf]
+MCWU-ZWN8-CFY9R
+D0N5-G1N3-178YV
+EAQ9-RMW8-9XF5G
+X7H6-0XRU-X0XFM
+PDNV-F36X-BWXX1
+4PPN-69F1-TNGPT
+
+
+Link Takes Damage Multiplier [Ralf]
+04003B80 8061000C
+04003B84 74648000
+04003B88 41820008
+04003B8C 1C6300xx
+04003B90 481EDB10
+041F169C 4BE124E4
+
+xx = Damage Multiplier
+
+
+Link Takes Ten Times More Damage [Ralf]
+VVAN-2WWM-ZN0EN
+96TT-0VV1-P62TH
+NWY5-QHZB-PVD4P
+6VNY-VTRM-WKN1X
+BZ8H-P4FR-XDDZ9
+KU13-0M21-ANARX
+XPEV-WJRW-YW85J
+
+
+Playthrough Modifier [Ralf]
+003C4DA8 000000xx
+
+xx = Number of Playthroughs
+
