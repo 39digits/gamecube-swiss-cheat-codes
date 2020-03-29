@@ -1,0 +1,1446 @@
+[GMSE01] Super Mario Sunshine (NTSC-U)
+
+Inverted Camera Rotation (C-Stick) [Ralf]
+04025050 FFE00850
+04029204 FFE00890
+
+16:9 Aspect Ratio (Widescreen) [Ralf]
+04416B74 3F9A7643
+
+Enable Map Select (Press RESET) [Ralf]
+042A6788 3BC00009
+
+Replace Episode Select With Map Select [Ralf]
+C22A6654 00000003
+547E063E 281E0008
+40820008 3BC00009
+60000000 00000000
+
+Breath Underwater (Improved) [Ralf]
+48000000 8040E0E0
+DE000000 80008180
+1400012C 410FFFF6
+12001244 00007FFF
+E0000000 80008000
+
+Mario Opens Yoshi Eggs (No Fruit Needed) [hawkeye2777 & Ralf]
+041BC870 60000000
+041BC900 60000000
+
+Hit 1 Balloon To Win Balloon Game [Ralf]
+2A578A82 FF000000
+00578A83 00000014
+E2000001 80008000
+
+Invincible [Ralf]
+0424FEC4 60000008
+
+Super Throw Power [Ralf]
+48000000 8040E12C
+DE000000 80008180
+14000708 41800000
+E0000000 80008000
+
+Faster Charge Turbo/Rocket Nozzle [Ralf]
+0426C528 D01D0488
+
+Instant Charge Turbo/Rocket Nozzle (Click R) [Ralf]
+0426C4A8 C01D0388
+28404454 FFDF0020
+0426C4A8 C01D02D4
+E2000001 80008000
+
+Beta Multiplayer Camera [Ralf]
+042A8B34 38600001
+
+ExMap Camera On/Off (Press B + DPad Up/Down) [Ralf]
+28404454 00000204
+042A8B64 38600000
+E2000001 80008000
+28404454 00000208
+042A8B64 38600001
+E2000001 80008000
+
+Have Scuba [hawkeye2777 & Ralf]
+04241E4C 60000000
+
+Have Sunshine Shirt [hawkeye2777 & Ralf]
+0424D4DC 60000000
+
+Have Sunglasses [hawkeye2777 & Ralf]
+04241EFC 60000004
+04241F00 B01D0004
+
+No Waves [Ralf]
+48000000 8040DF54
+DE000000 80008180
+1400002C 3A000000
+14000030 3A000000
+1400003C 3A000000
+14000040 3A000000
+E0000000 80008000
+
+Big Waves [Ralf]
+48000000 8040DF54
+DE000000 80008180
+1400002C 42F00000
+14000030 42C80000
+1400003C 42F00000
+14000040 42C80000
+E0000000 80008000
+
+Freak Waves [Ralf]
+48000000 8040DF54
+DE000000 80008180
+1400002C 43480000
+14000030 43800000
+1400003C 43480000
+14000040 43800000
+E0000000 80008000
+
+Mario Climb Like Donkey Kong [Ralf]
+003A08AD 00000052
+04416250 3DD00000
+003A0DF1 00000052
+0441627C 40A00000
+
+Really Big Waterbeam [Ralf]
+00416009 00000052
+0426D3FC C002F364
+
+Spread Watergun [Ralf]
+00415FF1 00000052
+04415F8C 3FC00000
+
+Freeze Timer [Ralf]
+04147568 38A00000
+
+Freeze Timer On/Off (Press X + DPad Up/Down) [Ralf]
+04003400 806D9FB8
+04003404 80630074
+0400340C 9803004A
+04003410 806D9FB8
+04003414 4824AA74
+28404454 00000408
+0424DE84 4BDB557C
+04003408 38000000
+E2000001 80008000
+28404454 00000404
+04003408 38000001
+E2000001 80008000
+
+Mario Is Invisible On/Off (Press X + DPad Left/Right) [Ralf]
+28404454 00000401
+0424D660 38000001
+E2000001 80008000
+28404454 00000402
+0424D660 38000000
+E2000001 80008000
+
+Fludd Is Always Present [Ralf]
+0424D690 60008000
+0424D694 901F0118
+
+Fludd Is Never Present [Ralf]
+0424D690 5400045E
+0424D694 901F0118
+0424D698 38000000
+
+Fludd On/Off (Press X + DPad Up/Down) [Ralf]
+28404454 00000408
+0424D690 60008000
+0424D694 901F0118
+0424D698 38000001
+E2000001 80008000
+28404454 00000404
+0424D690 5400045E
+0424D694 901F0118
+0424D698 38000000
+E2000001 80008000
+
+Fludd Is Invisible On/Off (Press X + DPad Up/Down) [Ralf]
+28404454 00000404
+0424D6A8 60000000
+E2000001 80008000
+28404454 00000408
+0424D6A8 48000020
+E2000001 80008000
+
+NPCs Are Invisible [Ralf]
+06003620 00000010
+800300F0 60000001
+900300F0 48203988
+04206FB0 4BDFC670
+
+NPCs Are Dancing [Ralf]
+06003730 00000010
+80630170 60630004
+907E0170 4E800020
+04205134 4BDFE5FD
+
+NPCs Are Dancing On/Off (Press B + DPad Up/Down) [Ralf]
+04003730 80630170
+04003738 907E0170
+0400373C 4E800020
+28404454 00000204
+04003734 546307B8
+E2000001 80008000
+28404454 00000208
+04003734 60630004
+04205134 4BDFE5FD
+E2000001 80008000
+
+NPCs Are Happy [Ralf]
+06003740 00000010
+60630200 907E0170
+5460056B 4E800020
+04205138 4BDFE609
+
+NPCs Are Happy On/Off (Press B + DPad Left/Right) [Ralf]
+04003744 907E0170
+04003748 5460056B
+0400374C 4E800020
+28404454 00000201
+04003740 60630200
+04205138 4BDFE609
+E2000001 80008000
+28404454 00000202
+04003740 546305EA
+E2000001 80008000
+
+Super Rocket Height & Watergun Range [Ralf]
+0039F615 00000052
+04416004 42A00000
+
+Alt. Super Hover Height [Ralf]
+C218984C 00000005
+3C608041 8063E12C
+806302CC 3CC04520
+2C030000 41820008
+90C31D40 38210008
+60000000 00000000
+
+NPCs Don't Walk [Ralf]
+042131B0 60000000
+04213400 60000000
+
+Freeze NPCs [Ralf]
+04206FB8 48000418
+
+Freeze NPCs On/Off (Press X + DPad Up/Down) [Ralf]
+06003600 00000014
+64000001 900300F0
+48203DC8 5400041C
+4BFFFFF4 00000000
+20206FB4 4BDFC658
+04206FB4 540007FF
+E2000001 80008000
+28404454 00000404
+04206FB4 4BDFC658
+E2000001 80008000
+28404454 00000408
+04206FB4 4BDFC64C
+E2000001 80008000
+
+Mario Can Carry NPCs [Ralf]
+042137D0 64A50010
+042137D4 90A300F0
+
+Mario Can Carry NPCs On/Off (Press X + DPad Left/Right) [Ralf]
+06003420 00000018
+64A50010 48000008
+54A50314 90A300F0
+54A002D7 482103A0
+28404454 00000401
+042137D0 4BDEFC50
+E2000001 80008000
+28404454 00000402
+042137D0 4BDEFC58
+E2000001 80008000
+
+Mario Can Throw NPCs [Ralf]
+0039583D 00000052
+0039584D 00000052
+04414FA4 41800000
+04414FA8 41580000
+
+Note: The code require the Mario Can Carry NPCs code to work.
+
+Freeze Enemies [Ralf]
+0406C5C4 480003FC
+
+Freeze Enemies On/Off (Press X + DPad Left/Right) [Ralf]
+28404454 00000401
+0406C5C4 480003FC
+E2000001 80008000
+28404454 00000402
+0406C5C4 408203FC
+E2000001 80008000
+
+Mario Can Walk Underwater [Ralf]
+0424F020 48000830
+
+Mario Never Get Dirty [Ralf]
+003A0495 00000052
+04416214 00000000
+
+Play As Damage Mario [Ralf]
+04243E38 60000000
+
+Play As Paper Mario [Ralf]
+C2189848 00000005
+3C608041 8063E12C
+80630294 3CC03E00
+2C030000 41820008
+90C355CC 8001000C
+60000000 00000000
+
+Note: This code doesn't work with Size Modifier codes turned on.
+
+Walk Through Walls On/Off (Press X + DPad Up/Down) [Ralf]
+28404454 00000404
+04415BE8 42480000
+E2000001 80008000
+28404454 00000408
+04415BE8 C6800000
+E2000001 80008000
+
+Note: Some scenery cannot be walked through.
+
+Climb Any Wall On/Off (Press DPad Left/Right) [Ralf]
+28404454 00000001
+0424C89C 38000001
+04256A50 38000001
+0425B214 38000001
+0425E308 38000001
+0425E330 38000001
+042617D4 38000001
+04272674 38000001
+E2000001 80008000
+28404454 00000002
+0424C89C 38000000
+04256A50 38000000
+0425B214 38000000
+0425E308 38000000
+0425E330 38000000
+042617D4 38000000
+04272674 38000000
+E2000001 80008000
+
+Infinite Hover Time On/Off (Press DPad Left/Right) [Ralf]
+28404454 00000001
+0426C330 60000000
+E2000001 80008000
+28404454 00000002
+0426C330 3803FFFF
+E2000001 80008000
+
+Alt. Infinite Hover Time [Ralf]
+06003700 00000020
+3C608000 9BC33720
+9BDF1C85 4E800020
+3C608000 9BE33720
+7C7E0214 4E800020
+04269F54 4BD997BD
+0426A1F0 4BD99511
+0426C330 60000000
+28003720 00FF0100
+0426C330 3803FFFF
+E2000001 80008000
+
+Water Has Yoshi Juice Effect [Ralf]
+0406C10C 48000010
+0406C2B0 48000010
+040FED44 60000000
+
+- Water can destroy the yellow slime
+- Water can build platforms
+
+Fixed Camera Position On/Off (Press DPad Left/Right) [hawkeye2777 & Ralf]
+28404454 00000001
+00032633 00000001
+E2000001 80008000
+28404454 00000002
+00032633 00000000
+E2000001 80008000
+
+Scenery Is Invisible [Ralf]
+04217FE4 48000028
+
+Scenery Is Invisible On/Off (Press DPad Left/Right) [Ralf]
+28404454 00000001
+04217FE4 48000028
+E2000001 80008000
+28404454 00000002
+04217FE4 40820028
+E2000001 80008000
+
+Nozzle Modifier [Ralf]
+28404454 00000001
+04269F50 3BE00005
+E2000001 80008000
+28404454 00000002
+04269F50 3BE00004
+E2000001 80008000
+28404454 00000004
+04269F50 3BE00002
+E2000001 80008000
+28404454 00000008
+04269F50 3BE00001
+E2000001 80008000
+
+DPad Up    = Rocket Nozzle
+DPad Down  = Jump Nozzle
+DPad Left  = Turbo Nozzle
+DPad Right = Hover Nozzle
+
+Have All Nozzles (Press X) [Ralf]
+06003630 0000001C
+8BFE1C85 281F0004
+4081000C 3BE00001
+4E800020 3BFF0001
+4E800020 00000000
+04269F50 4BD996E1
+
+Note: Including jump nozzle and full tank nozzle.
+
+Have All Standard Nozzles (Press X) [Ralf]
+06003630 00000034
+8BFE1C85 2C1F0001
+4082000C 3BE00004
+4E800020 2C1F0004
+4082000C 3BE00005
+4E800020 2C1F0005
+40820008 3BE00001
+4E800020 00000000
+04269F50 4BD996E1
+
+Mario Size Modifier (Press DPad Up/Down/Left) [Ralf]
+06002F40 0000000E
+3C608041 8063E12C
+80630294 3CC00000
+06002F50 0000001C
+2C030000 41820010
+90C355C4 90C355C8
+90C355CC 8001000C
+481868E4 00000000
+28404454 00000001
+02002F4E 00003F80
+04189848 4BE796F8
+E2000001 80008000
+28404454 00000004
+82110000 00002F4E
+86000000 FFFFFFFD
+84110000 00002F4E
+E2000001 80008000
+28404454 00000008
+82110000 00002F4E
+86000000 00000003
+84110000 00002F4E
+E2000001 80008000
+
+DPad Up   = Grow
+DPad Down = Shrink
+DPad Left = Normal/Reset & Activate Code
+
+Mario Look Modifier [hawkeye2777 & Ralf]
+28404454 00000001
+0424D4DC 60000000
+E2000001 80008000
+28404454 00000002
+0424D4DC 48000028
+E2000001 80008000
+28404454 00000004
+04241BF4 480001B8
+E2000001 80008000
+28404454 00000008
+04241BF4 60000000
+E2000001 80008000
+28404454 00000401
+04241EFC 60000004
+04241F00 B01D0004
+04241F04 38000001
+E2000001 80008000
+28404454 00000402
+04241EFC 540007B8
+04241F00 B01D0004
+04241F04 38000000
+E2000001 80008000
+28404454 00000404
+04241E4C 60000000
+04241E54 540007FA
+E2000001 80008000
+28404454 00000408
+04241E4C 60000000
+04241E54 60000002
+E2000001 80008000
+
+DPad Up/Down        = Hat On/Off
+DPad Left/Right     = Sunshine Shirt On/Off
+DPad Up/Down    + X = Scuba On/Off
+DPad Left/Right + X = Sunglasses On/Off
+
+Gravity Control [Ralf]
+28404454 00000001
+48000000 8040E12C
+DE000000 80008180
+14000A00 3F400000
+E2000002 80008000
+28404454 00000002
+48000000 8040E12C
+DE000000 80008180
+14000A00 3F800000
+E2000002 80008000
+28404454 00000004
+48000000 8040E12C
+DE000000 80008180
+14000A00 3FC00000
+E2000002 80008000
+28404454 00000008
+48000000 8040E12C
+DE000000 80008180
+14000A00 3E800000
+E2000002 80008000
+
+DPad Up    = High Gravity (1.50)
+DPad Left  = Medium Gravity (0.75)
+DPad Down  = Low Gravity (0.25)
+DPad Right = Normal/Reset Gravity (1.00)
+
+Teleport (Press DPad Left/Right) [Ralf]
+06005100 00000044
+3C808000 C01E0010
+D0045160 C01E0014
+D0045164 C01E0018
+D0045168 48000020
+3C808000 C0045160
+D01E0010 C0045164
+D01E0014 C0045168
+D01E0018 8001001C
+4824B044 00000000
+04250180 8001001C
+28404454 FFFE0001
+04250180 4BDB4F80
+E2000001 80008000
+28404454 FFFD0002
+04250180 4BDB4FA0
+E2000001 80008000
+
+DPad Left  = Save position
+DPad Right = Teleport to saved position
+
+Super Tongue (Yoshi) [Ralf]
+04415F4C 48000000
+04415F68 49800000
+
+No Yoshi Drums [Ralf]
+042704A8 38600000
+
+Yoshi Drums On/Off (Press B + DPad Left/Right) [Ralf]
+04003B00 808D9FBC
+04003B04 38000001
+06003B0C 00000010
+98040088 48012A39
+BB610154 48249FE4
+28404454 00000201
+0424DAF8 4BDB6008
+04003B08 38600001
+E2000001 80008000
+28404454 00000202
+0424DAF8 4BDB6008
+04003B08 38600000
+E2000001 80008000
+
+Note: Only works if Yoshi is normally in that map.
+
+
+Background Music Volume Modifier [Ralf]
+0440C1C0 xxxxxxxx
+
+xxxxxxxx = Volume (IEEE-754 SP Floating-Point Number, Default: 3F400000 = 0.75)
+
+
+Disable Background Music [Ralf]
+04016978 3880000A
+0401697C 4BFFFEF0
+
+Alt. Disable Background Music [Ralf]
+04016998 3880000A
+0401699C 4BFFFED1
+040169A4 480000F8
+
+Background Music Modifier [Ralf]
+C2016994 00000002
+3C608001 386300xx
+3B830000 00000000
+
+xx - Song ID
+
+
+Song IDs
+
+01 - Dolpic
+02 - Bianco
+03 - Manma
+04 - Pinnapaco S
+05 - Pinnapaco
+06 - Mare Sea
+07 - Montevillage
+08 - Shilena
+09 - Rico
+0A - Clear
+0B - Chuboss
+0C - Miss
+0D - Boss
+0E - Select
+0F - Bosspakkun
+
+10 - Title
+11 - Chuboss2
+12 - Ex
+13 - Delfino
+14 - Marevillage
+15 - Corona
+16 - Kagemario
+17 - Camera
+18 - Montevillage S
+19 - Mechakuppa
+1A - Airport
+1B - Chika
+1C - Titleback
+1D - Montevillage T
+1E - Delfino Kaj
+1F - Event
+
+20 - Timelimit
+21 - Extra Sky
+22 - Montevillage K
+23 - Pinnapaco M
+24 - Select K
+25 - Casino Fanfare
+26 - Race Fanfare
+27 - Camerakage
+28 - Gameover
+29 - Boss Hanach
+2A - Boss Geso
+2B - Chuboss Man
+2C - Montevillage X
+2D - Shine
+2E - Kuppa
+2F - Monteman
+
+
+Play Boss Geso Song [Ralf]
+C2016994 00000002
+3C608001 3863002A
+3B830000 00000000
+
+
+Monteman Skin Color Modifier [Ralf]
+04212A5C 380000xx
+
+xx = Skin Color ID
+
+00 - Light Blue
+01 - Blue
+02 - Yellow
+03 - Dark Brown
+04 - Purple
+05 - Light Green
+06 - Pink
+07 - Brown
+08 - Light Blue
+09 - Light Brown
+0A - Dark Green
+0B - Black
+0C - Green
+0D - Dark Blue
+0E - Gray
+0F - Light Gray
+..
+FF - Dark Purple
+
+
+Monteman Skirt Color Modifier [Ralf]
+04212AB4 380000xx
+
+xx = Skirt Color ID
+
+00 - Orange & White
+01 - Dark Cyan
+02 - Green & White
+03 - Light Gray
+04 - Dark Gray
+05 - Light Blue
+06 - Dark Blue
+07 - Orange & Purple
+08 - Blue & White
+09 - Light Purple & White
+0A - Green & Light Green
+0B - Orange & Dark Gray
+0C - Black & Cyan
+0D - Cyan & Light Green
+0E - Dark Blue & White
+0F - Light Cyan & Black
+..
+FF - Black
+
+
+Deep Purple Montemans [Ralf]
+04212A5C 380000FF
+04212AB4 38000008
+
+
+Yoshi Color Modifier [hawkeye2777 & Ralf]
+0839F934 rrggbbFF
+20030004 00000000
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Red Yoshi [Ralf]
+0839F934 A82020FF
+20030004 00000000
+
+Green Yoshi [Ralf]
+0839F934 40A124FF
+20030004 00000000
+
+Blue Yoshi [Ralf]
+0839F934 1428BEFF
+20030004 00000000
+
+White Yoshi [Ralf]
+0039F934 000F00FF
+
+
+Yoshi Juice Color Modifier [hawkeye2777 & Ralf]
+083DD89C rrggbb6E
+20020004 00000000
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Red Yoshi Juice [Ralf]
+083DD89C C00B286E
+20020004 00000000
+
+Green Yoshi Juice [Ralf]
+083DD89C 56A8186E
+20020004 00000000
+
+Blue Yoshi Juice [Ralf]
+083DD89C 0A32CC6E
+20020004 00000000
+
+Water Yoshi Juice [Ralf]
+083DD89C 3C467814
+20020004 00000000
+
+
+Water Color Modifier [hawkeye2777 & Ralf]
+043DD898 rrggbb6E
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+
+Red Water [Ralf]
+043DD898 9422186E
+
+Green Water [Ralf]
+043DD898 3C78466E
+
+Yellow Water [Ralf]
+043DD898 E8E0326E
+
+
+Mario Anim Modifier Codes
+
+Mario Gets Hot [Ralf]
+043DC17C 8039E148
+
+Mario Rides Yoshi Real Hard [Ralf]
+083DC53C 8039E090
+20100008 00000000
+
+Mario Is A Sleepwalker [Ralf]
+043DC4C4 8041597C
+043DC4CC 80415954
+043DC4D4 80415954
+043DC4DC 80415828
+043DC4E4 80415894
+043DC4EC 8039E148
+
+
+Mario Anim Modifier Table [Ralf]
+
+043DBF8C 80xxxxxx - (4157B0) hgup
+043DBF94 80xxxxxx - (4157B8) bdwn
+043DBF9C 80xxxxxx - (4157C0) bkdwn
+043DBFA4 80xxxxxx - (39E090) tree_climb
+043DBFAC 80xxxxxx - (39E09C) tree_catch
+043DBFB4 80xxxxxx - (39E0A8) tree_stand
+043DBFBC 80xxxxxx - (39E0B4) tree_wait
+043DBFC4 80xxxxxx - (4157C8) brake
+043DBFCC 80xxxxxx - (4157D0) brend
+043DBFD4 80xxxxxx - (4157D8) hgdwn
+043DBFDC 80xxxxxx - (4157E0) fjpend
+043DBFE4 80xxxxxx - (4157E8) firejmp
+043DBFEC 80xxxxxx - (4157F0) sdwnf
+043DBFF4 80xxxxxx - (4157F8) jfdwn
+043DBFFC 80xxxxxx - (415800) hang
+
+043DC004 80xxxxxx - (415808) hgjmp
+043DC00C 80xxxxxx - (39E0C0) ladder_hang_catch
+043DC014 80xxxxxx - (415810) hiped
+043DC01C 80xxxxxx - (415818) hipsr
+043DC024 80xxxxxx - (415820) hipat
+043DC02C 80xxxxxx - (415828) run1
+043DC034 80xxxxxx - (415830) 2jmed
+043DC03C 80xxxxxx - (415838) 2jmp2
+043DC044 80xxxxxx - (415840) jump
+043DC04C 80xxxxxx - (415848) jmped
+043DC054 80xxxxxx - (415850) 2jmp1
+043DC05C 80xxxxxx - (415858) land
+043DC064 80xxxxxx - (415860) laend
+043DC06C 80xxxxxx - (415868) lost
+043DC074 80xxxxxx - (39E0D4) door_openr
+043DC07C 80xxxxxx - (39E0E0) door_openl
+043DC084 80xxxxxx - (415870) throw
+043DC08C 80xxxxxx - (39E0EC) ladder_hang_move_l
+043DC094 80xxxxxx - (39E100) ladder_hang_move_r
+043DC09C 80xxxxxx - (415878) raise
+043DC0A4 80xxxxxx - (415880) push
+043DC0AC 80xxxxxx - (39E114) ride_shell
+043DC0B4 80xxxxxx - (415888) put
+043DC0BC 80xxxxxx - (41588C) roll
+043DC0C4 80xxxxxx - (415894) run2
+043DC0CC 80xxxxxx - (41589C) shock
+043DC0D4 80xxxxxx - (4158A4) sfbdn
+043DC0DC 80xxxxxx - (4158AC) sffdn
+043DC0E4 80xxxxxx - (4158B4) sdown
+043DC0EC 80xxxxxx - (4158BC) shfdn
+043DC0F4 80xxxxxx - (4158C4) swait
+043DC0FC 80xxxxxx - (4158CC) swlkl
+
+043DC104 80xxxxxx - (4158D4) swlkr
+043DC10C 80xxxxxx - (4158DC) sldct
+043DC114 80xxxxxx - (4158E4) slpbk
+043DC11C 80xxxxxx - (4158EC) sldwn
+043DC124 80xxxxxx - (4158F4) slped
+043DC12C 80xxxxxx - (4158FC) slpla
+043DC134 80xxxxxx - (415904) slip
+043DC13C 80xxxxxx - (41590C) sstep
+043DC144 80xxxxxx - (415914) sqend
+043DC14C 80xxxxxx - (41591C) sqsta
+043DC154 80xxxxxx - (415924) sqwat
+043DC15C 80xxxxxx - (41592C) turn
+043DC164 80xxxxxx - (415934) trned
+043DC16C 80xxxxxx - (41593C) tjmp2
+043DC174 80xxxxxx - (415944) tjmp1
+043DC17C 80xxxxxx - (41594C) wait
+043DC184 80xxxxxx - (39E120) ladder_hang_wait_l
+043DC18C 80xxxxxx - (39E134) ladder_hang_wait_r
+043DC194 80xxxxxx - (415954) walk
+043DC19C 80xxxxxx - (41595C) wjmp
+043DC1A4 80xxxxxx - (415964) wsld
+043DC1AC 80xxxxxx - (41596C) pump
+043DC1B4 80xxxxxx - (415974) hgpmp
+043DC1BC 80xxxxxx - (41597C) step1
+043DC1C4 80xxxxxx - (415984) step2
+043DC1CC 80xxxxxx - (41598C) step3
+043DC1D4 80xxxxxx - (415994) jkick
+043DC1DC 80xxxxxx - (41599C) dgrun
+043DC1E4 80xxxxxx - (4159A4) carry_p
+043DC1EC 80xxxxxx - (4159AC) hmov_l
+043DC1F4 80xxxxxx - (4159B4) hmov_r
+043DC1FC 80xxxxxx - (4159BC) t_wait
+
+043DC204 80xxxxxx - (39E148) hot_wait
+043DC20C 80xxxxxx - (39E154) rope_walk
+043DC214 80xxxxxx - (39E160) rope_run
+043DC21C 80xxxxxx - (39E16C) rope_wait
+043DC224 80xxxxxx - (39E178) rope_wtosw
+043DC22C 80xxxxxx - (39E184) rope_wtosw_r
+043DC234 80xxxxxx - (39E194) rope_swait
+043DC23C 80xxxxxx - (39E1A0) rope_whg
+043DC244 80xxxxxx - (39E1AC) rope_swhg
+043DC24C 80xxxxxx - (39E1B8) rope_hgwat
+043DC254 80xxxxxx - (39E1C4) rope_return
+043DC25C 80xxxxxx - (39E1D0) rope_hmovr
+043DC264 80xxxxxx - (39E1DC) rope_hmovl
+043DC26C 80xxxxxx - (4159C4) sinking
+043DC274 80xxxxxx - (39E1E8) sink_down
+043DC27C 80xxxxxx - (39E1F4) door_kick
+043DC284 80xxxxxx - (4159CC) hold
+043DC28C 80xxxxxx - (39E200) hold_wait
+043DC294 80xxxxxx - (39E20C) hold_back
+043DC29C 80xxxxxx - (39E218) hold_move_r
+043DC2A4 80xxxxxx - (39E224) hold_move_l
+043DC2AC 80xxxxxx - (39E230) hold_drag
+043DC2B4 80xxxxxx - (39E23C) hold_to_hang
+043DC2BC 80xxxxxx - (39E24C) hold_hang
+043DC2C4 80xxxxxx - (39E258) hang_to_hold
+043DC2CC 80xxxxxx - (39E268) hold_return
+043DC2D4 80xxxxxx - (4159D4) spin_p
+043DC2DC 80xxxxxx - (39E274) turbo_dash
+043DC2E4 80xxxxxx - (39E280) broad_jump
+043DC2EC 80xxxxxx - (39E28C) jump_rolling
+043DC2F4 80xxxxxx - (39E29C) giant_rolling
+043DC2FC 80xxxxxx - (39E2AC) fence_catch
+
+043DC304 80xxxxxx - (39E2B8) fence_jcatch
+043DC30C 80xxxxxx - (39E2C8) fence_wait
+043DC314 80xxxxxx - (39E2D4) fence_move_l
+043DC31C 80xxxxxx - (39E2E4) fence_move_r
+043DC324 80xxxxxx - (39E2F4) fence_move_up
+043DC32C 80xxxxxx - (39E304) fence_move_down
+043DC334 80xxxxxx - (39E314) fence_punch
+043DC33C 80xxxxxx - (39E320) ladder_hang_kick
+043DC344 80xxxxxx - (39E334) ladder_roll_up
+043DC34C 80xxxxxx - (39E344) ladder_roll_down
+043DC354 80xxxxxx - (39E114) ride_shell
+043DC35C 80xxxxxx - (39E358) ride_shell_wait
+043DC364 80xxxxxx - (39E368) swim_start
+043DC36C 80xxxxxx - (39E374) swim_wait
+043DC374 80xxxxxx - (39E380) wait_to_swim
+043DC37C 80xxxxxx - (4159DC) swim
+043DC384 80xxxxxx - (39E390) swim_to_wait
+043DC38C 80xxxxxx - (39E3A0) swim_damage
+043DC394 80xxxxxx - (39E3AC) swim_down
+043DC39C 80xxxxxx - (39E3B8) demo_shine_get
+043DC3A4 80xxxxxx - (39E3C8) demo_gate_in
+043DC3AC 80xxxxxx - (39E3D8) demo_gate_out
+043DC3B4 80xxxxxx - (39E3E8) roll_jump
+043DC3BC 80xxxxxx - (39E3F4) get_fail
+043DC3C4 80xxxxxx - (39E400) tree_move_l
+043DC3CC 80xxxxxx - (39E40C) tree_move_r
+043DC3D4 80xxxxxx - (4159E4) die
+043DC3DC 80xxxxxx - (39E418) monteman_wait
+043DC3E4 80xxxxxx - (39E368) swim_start
+043DC3EC 80xxxxxx - (39E374) swim_wait
+043DC3F4 80xxxxxx - (39E428) wait_to_paddle
+043DC3FC 80xxxxxx - (39E438) paddle_start
+
+043DC404 80xxxxxx - (4159DC) swim
+043DC40C 80xxxxxx - (39E448) paddle_end
+043DC414 80xxxxxx - (39E454) paddle_to_wait
+043DC41C 80xxxxxx - (4159E8) float
+043DC424 80xxxxxx - (39E464) damage_wait
+043DC42C 80xxxxxx - (4159F0) fepmp
+043DC434 80xxxxxx - (4159F8) swpmp
+043DC43C 80xxxxxx - (415A00) thrown
+043DC444 80xxxxxx - (39E470) thrown_end
+043DC44C 80xxxxxx - (39E47C) bottle_in
+043DC454 80xxxxxx - (39E488) sand_fill_head
+043DC45C 80xxxxxx - (39E498) sand_fill_head_end
+043DC464 80xxxxxx - (39E4AC) sandfill_leg
+043DC46C 80xxxxxx - (39E4BC) sandfill_leg_end
+043DC474 80xxxxxx - (39E4D0) damage_wait_start
+043DC47C 80xxxxxx - (39E4E4) swim_dive
+043DC484 80xxxxxx - (415A08) draw
+043DC48C 80xxxxxx - (39E4F0) swim_p_damage
+043DC494 80xxxxxx - (39E500) swim_p_down
+043DC49C 80xxxxxx - (415A10) pivot
+043DC4A4 80xxxxxx - (39E50C) demo_gate_out_get2
+043DC4AC 80xxxxxx - (39E520) demo_gate_out_appear
+043DC4B4 80xxxxxx - (415A18) belt_up
+043DC4BC 80xxxxxx - (415A20) yawn
+043DC4C4 80xxxxxx - (415A28) sit
+043DC4CC 80xxxxxx - (39E538) sit_wait
+043DC4D4 80xxxxxx - (415A2C) sit_end
+043DC4DC 80xxxxxx - (415A34) sleep
+043DC4E4 80xxxxxx - (39E544) sleep_wait
+043DC4EC 80xxxxxx - (39E550) sleep_end
+043DC4F4 80xxxxxx - (39E55C) dive_wait
+043DC4FC 80xxxxxx - (39E568) dive_land
+
+043DC504 80xxxxxx - (39E574) door_gacha_l
+043DC50C 80xxxxxx - (39E584) door_gacha_r
+043DC514 80xxxxxx - (39E594) shock_down
+043DC51C 80xxxxxx - (39E5A0) demo_gate_out_appear_get
+043DC524 80xxxxxx - (39E5BC) demo_gate_out_rolling_get
+043DC52C 80xxxxxx - (39E5D8) demo_gate_out_rolling
+043DC534 80xxxxxx - (39E5F0) fall_down_wait
+043DC53C 80xxxxxx - (415A3C) yo_wait
+043DC544 80xxxxxx - (415A44) yo_walk
+043DC54C 80xxxxxx - (415A4C) yo_run
+043DC554 80xxxxxx - (415A54) yo_eat
+043DC55C 80xxxxxx - (39E600) yo_eat_end
+043DC564 80xxxxxx - (415A5C) yo_jump
+043DC56C 80xxxxxx - (39E60C) yo_jump_fall
+043DC574 80xxxxxx - (39E61C) yo_jump_end
+043DC57C 80xxxxxx - (39E628) yo_hold_jump
+043DC584 80xxxxxx - (415A64) yo_ride
+043DC58C 80xxxxxx - (39E638) yo_hip_start
+043DC594 80xxxxxx - (39E648) yo_hip_pose
+043DC59C 80xxxxxx - (39E654) yo_hip_end
+043DC5A4 80xxxxxx - (39E660) yo_damage
+043DC5AC 80xxxxxx - (39E66C) demo_shine_get_yo
+043DC5B4 80xxxxxx - (39E680) yo_slide_pose
+043DC5BC 80xxxxxx - (39E690) yo_slide_end
+
+
+Replace Mario Wait Anim With Yawn Anim [Ralf]
+043DC17C 80415A20
+
+Replace Mario Jump Anim With Giant Rolling Anim [Ralf]
+043DC044 8039E29C
+
+
+Min Camera Distance Modifier [hawkeye2777 & Ralf]
+003749C5 00000052
+0440F3A8 xxxxxxxx
+
+xxxxxxxx = Min Camera Distance (IEEE-754 SP Floating-Point Number, Default: 43E10000 = 450.0)
+
+
+Max Camera Distance Modifier [hawkeye2777 & Ralf]
+003749D1 00000052
+0440F3AC xxxxxxxx
+
+xxxxxxxx = Max Camera Distance (IEEE-754 SP Floating-Point Number, Default: 44FA0000 = 2000.0)
+
+
+Unrestricted Camera Distance [hawkeye2777 & Ralf]
+003749D1 00000052
+0440F3AC 46C35000
+
+
+Hover Height Modifier [hawkeye2777 & Ralf]
+0039F311 00000052
+04415FC4 xxxxxxxx
+
+xxxxxxxx = Hover Height (IEEE-754 SP Floating-Point Number, Default: 43200000 = 160.0)
+
+
+Super Hover Height [hawkeye2777 & Ralf]
+0039F311 00000052
+04415FC4 45200000
+
+
+Play As Dirty Mario (incl. Dirt Amount Modifier) [Ralf]
+08273FB0 C002F5B4
+2002002C 00000000
+042766E4 C022F674
+083A03D5 00000052
+00020010 00000000
+003A0495 00000052
+04416214 xxxxxxxx
+
+xxxxxxxx = Amount of Dirt (IEEE-754 SP Floating-Point Number)
+
+No Dirt   = 00000000
+Min. Dirt = 424C0000 ( 51.0)
+Max. Dirt = 43700000 (240.0)
+
+
+Play As Dirty Mario (Light) [Ralf]
+08273FB0 C002F5B4
+2002002C 00000000
+042766E4 C022F674
+083A03D5 00000052
+00020010 00000000
+003A0495 00000052
+04416214 42C80000
+
+Play As Dirty Mario (Medium) [Ralf]
+08273FB0 C002F5B4
+2002002C 00000000
+042766E4 C022F674
+083A03D5 00000052
+00020010 00000000
+003A0495 00000052
+04416214 43160000
+
+Play As Dirty Mario (Heavy) [Ralf]
+08273FB0 C002F5B4
+2002002C 00000000
+042766E4 C022F674
+083A03D5 00000052
+00020010 00000000
+003A0495 00000052
+04416214 43700000
+
+
+Rope Color Modifier [Ralf]
+0440DEBC rrggbbFF
+0440DEC0 rrggbbFF
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+0440DEBC - Top Color    (Default = 787878FF = Medium Gray)
+0440DEC0 - Bottom Color (Default = 787878FF = Medium Gray)
+
+
+Green Ropes [Ralf]
+0440DEBC 00C800FF
+0440DEC0 008000FF
+
+
+Mario Damage Color Modifier [Ralf]
+08415A78 rrggbbFF
+20010008 00000000
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+Default = FF0080FF (Purple)
+
+
+Green Mario Damage [Ralf]
+08415A78 00FF00FF
+20010008 00000000
+
+
+Mario Warning Color Modifier [Ralf]
+04415A7C rrggbbFF
+
+rr = Red   (00 .. FF)
+gg = Green (00 .. FF)
+bb = Blue  (00 .. FF)
+
+Default = 829600FF (Dark Yellow)
+
+
+Blue Mario Warning [Ralf]
+04415A7C 0000FFFF
+
+
+Random Platform Colors [Ralf]
+0406C28C 48000084
+
+Platform Color Modifier [Ralf]
+0406C2D8 60000000
+0406C2F4 60000000
+0406C2F8 38000rrr
+0406C300 38600ggg
+0406C304 38000bbb
+
+rrr = Red   (000 .. 3FF)
+ggg = Green (000 .. 3FF)
+bbb = Blue  (000 .. 3FF)
+
+
+Blue Platforms [Ralf]
+0406C2D8 60000000
+0406C2F4 60000000
+0406C2F8 38000000
+0406C300 386000E0
+0406C304 380001C0
+
+
+Play As Electric Mario [Ralf]
+04244538 60000000
+
+Electric Sparks Enabler [Ralf]
+06003300 0000003C
+7FC3F378 3FC08000
+83FE3340 281F1234
+41820010 3BE01234
+93FE3340 4825FAFD
+8001001C 4824CE60
+38000000 3FC08000
+901E3340 7C7E1B79
+4801366C 00000000
+040169A0 4BFEC988
+04250180 4BDB3180
+
+Note: If you play a level with Shadow Mario, then he will get the sparks.
+
+
+Electric Spark Types (Combinable)
+
+Large Sparks [Ralf]
+04262E24 38C00000
+
+Medium Circular Sparks [Ralf]
+04262E6C 38C00000
+
+Tiny Sparks [Ralf]
+04262E54 38C00000
+
+
+Electric Spark Position
+
+All Electric Sparks: Head [Ralf]
+04262E3C 38BF016C
+04262E64 38BF016C
+04262E4C 38BF016C
+
+Large Electric Sparks: Head [Ralf]
+04262E3C 38BF016C
+
+Medium Circular Electric Sparks: Head [Ralf]
+04262E64 38BF016C
+
+Tiny Electric Sparks: Head [Ralf]
+04262E4C 38BF016C
+
+
+Replace Large Electric Sparks with ... [Ralf]
+04262E24 38C00000
+04262E1C 3880xxxx
+
+xxxx = Anim ID (0000 ... 01FF)
+
+Large Rainbow Sparks (Bottom) [Ralf]
+04262E24 38C00000
+04262E1C 38800114
+
+White Smoke (Bottom) [Ralf]
+04262E24 38C00000
+04262E1C 38800115
+
+Steam (Head) [Ralf]
+04262E24 38C00000
+04262E1C 38800113
+
+Waterdrops [Ralf]
+04262E24 38C00000
+04262E1C 38800112
+
+Bubbles [Ralf]
+04262E24 38C00000
+04262E1C 38800111
+
+Blackhole (Centre) [Ralf]
+04262E24 38C00000
+04262E1C 38800110
+
+Sand Fountain [Ralf]
+04262E24 38C00000
+04262E1C 3880010F
+
+
+Replace Medium Circular Electric Sparks with ... [Ralf]
+04262E6C 38C00000
+04262E68 3880xxxx
+
+xxxx = Anim ID (0000 ... 01FF)
+
+Large Rainbow Sparks (Bottom) [Ralf]
+04262E6C 38C00000
+04262E68 38800114
+
+White Smoke (Bottom) [Ralf]
+04262E6C 38C00000
+04262E68 38800115
+
+Steam (Head) [Ralf]
+04262E6C 38C00000
+04262E68 38800113
+
+Waterdrops [Ralf]
+04262E6C 38C00000
+04262E68 38800112
+
+Bubbles [Ralf]
+04262E6C 38C00000
+04262E68 38800111
+
+Blackhole (Centre) [Ralf]
+04262E6C 38C00000
+04262E68 38800110
+
+Sand Fountain [Ralf]
+04262E6C 38C00000
+04262E68 3880010F
+
+
+Replace Tiny Electric Sparks with ... [Ralf]
+04262E54 38C00000
+04262E50 3880xxxx
+
+xxxx = Anim ID (0000 ... 01FF)
+
+Large Rainbow Sparks (Bottom) [Ralf]
+04262E54 38C00000
+04262E50 38800114
+
+White Smoke (Bottom) [Ralf]
+04262E54 38C00000
+04262E50 38800115
+
+Steam (Head) [Ralf]
+04262E54 38C00000
+04262E50 38800113
+
+Waterdrops [Ralf]
+04262E54 38C00000
+04262E50 38800112
+
+Bubbles [Ralf]
+04262E54 38C00000
+04262E50 38800111
+
+Blackhole (Centre) [Ralf]
+04262E54 38C00000
+04262E50 38800110
+
+Sand Fountain [Ralf]
+04262E54 38C00000
+04262E50 3880010F
+
+
+Anim IDs
+
+00FE - Waterdrops (X+)
+00FF - Blue Plasma (X+)
+
+0100 - Colorized Steam (Z+)
+0101 - Aura with Stars (Head)
+0102 - White Smoke (Centre)
+0103 - White Smoke (Centre/Y+)
+0104 - Tiny Motion Blur
+0105 - White Rotary Rings
+0106 - Colorized Rings
+0107 - Large Water Ring (Centre)
+0108 - Steam Disc (Centre)
+0109 - Water Effect (X)
+010A - Water Ring (Centre)
+010B - White Ring (Centre)
+010C - Large Bubbles
+010D - Steam (Centre)
+010E - Motion Blur
+010F - Sand Fountain
+
+0110 - Blackhole (Centre)
+0111 - Bubbles
+0112 - Waterdrops
+0113 - Steam (Head/Z-)
+0114 - Large Rainbow Sparks (Bottom)
+0115 - White Smoke (Bottom)
+0116 - Large Electric Sparks
+0117 - Medium Circular Electric Sparks
+0118 - Tiny Electric Sparks
+0119 - Large Waterdrops (Bottom)
+011A - Large Pink Circular Plasma (Bottom)
+011B - Fairy Glitter #1
+011C - Pink Plasma (Centre)
+011D - White Ring (Neck)
+011E - Gray Smoke (Head)
+011F - Wind Effect (Global)
+
+0120 - Yellow Plasma Rays (X-)
+0121 - Large Steam Disc (Centre)
+0122 - Steam (Centre/Y+)
+0123 - Large Water Fountain (Y+)
+0124 - ZZZZZZZZ
+0127 - White Wind Effect
+0128 - Shining
+0129 - Fairy Glitter #2
+012A - Sphere
+012D - Large White Bubbles
+012E - Large Orange Bubbles
+012F - Rotary Stars (Head)
+
+0130 - Medium Waterdrops (Bottom)
+0131 - Blue Wind Effect #1
+0133 - Blue Wind Effect #2
+0134 - Blue Wind Effect #3
+0135 - Flame (Head)
+0136 - Steam (Head/Z+)
+0137 - Glow-worms
+013C - Tiny Water Effect (Y+)
+013D - Tiny Water Effect (Y-)
+013E - Rock  Fountain
+013F - White Smoke (Centre)
+
+0146 - Clouds (Global)
+
+0154 - Tiny Fountain
+
+0165 - Tiny Black Smoke
+0166 - Large Black Smoke
+
+0170 - Black & Orange Smoke (Head)
+0171 - Large Water Effect (Centre)
+0172 - White Bubbles
+0173 - Tiny White Bubbles
+0174 - Gray Smoke
+0175 - Medium White & Brown Bubbles
+0176 - Large White & Brown Bubbles
+0177 - Large Waterdrops
+0178 - Large Bubbles
+0179 - Fog
+017A - Electric Spark (Centre)
+017B - Tiny Electric Spark (Centre)
+017C - Tiny Electric Spark (X-)
+017D - Large Electric Sparks (X+)
+017E - Tiny Electric Sparks
+017F - Black Smoke (Head)
+
+0180 - Medium Electric Spark (X)
+0181 - Electric Spark (X+)
+0182 - Electric Spark (X-)
+0183 - Electric Spark (Y+)
+0185 - Sandy Smoke (Bottom)
+0186 - Green & White Steam (Bottom)
+0187 - Blue Tail
+0188 - Tiny Blue Tail
+018B - Celfs
+
+01A8 - Jet of Water (Y-)
+
+01C4 - Yellow Flame (Head)
+01C5 - Flame Sparks
+
+01D1 - Yellow Steam (Y-)
+01D2 - White Steam (Y-)
+
+01E7 - Water Effect (X) *
+01E8 - Large Water Effect (Centre) *
+01E9 - Medium Water Effect (Centre) *
+01EA - Water Effect (Head) *
+01EB - Water Effect (Head) *
+01EC - Water Sphere (Head) *
+01ED - Heat Waves (Head) *
+
+01F5 - Large Heat Waves (Head) *
+01F7 - Large Water Effect (Centre) *
+01F8 - Large Water Effect (Z) *
+01FD - Stars
+
+* may require water to activate
+
+
+Mario Is Burning [Ralf]
+04262E24 38C00000
+04262E1C 38800170
+04262E54 38C00000
+04262E50 388001C4
+04262E6C 38C00000
+04262E68 388001C5
+
+Note: This code require the Electric Sparks Enabler code to work.
+
+Mario Is Shining [Ralf]
+04262E24 38C00000
+04262E1C 38800101
+04262E54 38C00000
+04262E50 38800128
+04262E6C 38C00000
+04262E68 3880012A
+
+Note: This code require the Electric Sparks Enabler code to work.
+
+Mario Is A Fairy [Ralf]
+04262E24 38C00000
+04262E1C 3880010E
+04262E54 38C00000
+04262E50 3880011B
+04262E6C 38C00000
+04262E68 38800129
+
+Note: This code require the Electric Sparks Enabler code to work.
+
