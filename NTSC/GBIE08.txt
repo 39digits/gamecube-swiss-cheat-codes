@@ -1,0 +1,1637 @@
+[GBIE08] Resident Evil (NTSC-U)
+
+Infinite item in slot 1
+021F11DC 00000063
+
+Infinite item in slot 2
+021F11E0 00000063
+
+Infinite item in slot 3
+021F11E4 00000063
+
+Infinite item in slot 4
+021F11E8 00000063
+
+Infinite item in slot 5
+021F11EC 00000063
+
+Infinite item in slot 6
+021F11F0 00000063
+
+Inf. item in slot 7 (Jill extended)
+021F11F4 00000063
+
+Inf. item in slot 8 (Jill extended)
+021F11F8 00000063
+
+Infinite Health
+021F11BE 00000578
+
+Infinite Ammo (All Weapons) [Link Master]
+04027284 38030000
+Co-author: Jay007
+
+Infinite Defense Items [Link Master]
+04078EA4 38030000
+
+Beta Music Plays In Mansion 1F & 2F [Link Master]
+057F3F1C 01805780
+057F3F20 00086860
+057F3F88 041149E0
+057F3F8C 00120660
+Co-author: Jay007
+
+Barry Replaced With Enrico In Cutscenes [Link Master]
+057F4E28 12098380
+057F4E2C 002BF140
+057F4E34 12098380
+057F4E38 002BF140
+057F4EF4 12098380
+057F4EF8 002BF140
+Co-author: Jay007
+
+All Files
+041F3B40 FFFFFFFF
+
+Zero Saves
+001F3A54 00000000
+
+All Items In Crate
+081F1200 00FF0001
+20820001 00000001
+
+Only use one code from each
+set of slot codes below
+
+Slot 1
+
+Silver survival knife (Jill)
+021F11DA 00000001
+
+Grey survival knife (Chris)
+021F11DA 00000002
+
+Handgun - Stars custom 9mm
+021F11DA 00000003
+
+Self defense gun
+021F11DA 00000004
+
+Handgun - .40 S&W
+021F11DA 00000005
+
+Shotgun
+021F11DA 00000006
+
+Grenade Launcher - Normal (Jill)
+021F11DA 00000007
+
+Grenade Launcher - Acid (Jill)
+021F11DA 00000008
+
+Grenade Launcher - Incendiary (Jill)
+021F11DA 00000009
+
+Rocket Launcher
+021F11DA 0000000A
+
+Magnum Revolver
+021F11DA 0000000B
+
+Flame Thrower (Chris)
+021F11DA 0000000C
+
+Assault shotgun
+021F11DA 0000000D
+
+Rocket Launcher - Fire and Forget
+021F11DA 0000000E
+
+Barrys 44 Magnum
+021F11DA 0000000F
+
+Grenade Shells
+021F11DA 00000010
+
+Handgun Magazine
+021F11DA 00000011
+
+Shotgun shells
+021F11DA 00000012
+
+Acid shells
+021F11DA 00000013
+
+Incendiary shells
+021F11DA 00000014
+
+Golden Arrow
+021F11DA 00000015
+
+Book of curse
+021F11DA 00000016
+
+Coin
+021F11DA 00000017
+
+Collar
+021F11DA 00000018
+
+Magnum rounds
+021F11DA 00000019
+
+Broach
+021F11DA 0000001A
+
+Fuel Canteen
+021F11DA 0000001B
+
+Arrowhead
+021F11DA 0000001C
+
+Imitation of a key
+021F11DA 0000001D
+
+Residence key - Gallery
+021F11DA 0000001E
+
+Fuel supply capsule
+021F11DA 0000001F
+
+Musical score - incomplete
+021F11DA 00000020
+
+First aid spray
+021F11DA 00000021
+
+Green herb
+021F11DA 00000022
+
+Red herb
+021F11DA 00000023
+
+Blue herb
+021F11DA 00000024
+
+Mixed herb - Green/small
+021F11DA 00000025
+
+Mixed herb - Green/large
+021F11DA 00000026
+
+Mixed herb - Red/green/small
+021F11DA 00000027
+
+Mixed herb - Red/green/large
+021F11DA 00000028
+
+Mixed herb - Blue/green/small
+021F11DA 00000029
+
+Mixed herb - Blue/green/large
+021F11DA 0000002A
+
+Lockpicks
+021F11DA 0000002B
+
+Old key
+021F11DA 0000002C
+
+Sword key
+021F11DA 0000002D
+
+Armor key
+021F11DA 0000002E
+
+Shield key
+021F11DA 0000002F
+
+Helmet key
+021F11DA 00000030
+
+Room 001 key
+021F11DA 00000031
+
+Room 003 key
+021F11DA 00000032
+
+Medal of eagle
+021F11DA 00000033
+
+Medal of wolf
+021F11DA 00000034
+
+Stone & metal object
+021F11DA 00000035
+
+Lab key - Power
+021F11DA 00000036
+
+Master key
+021F11DA 00000037
+
+Star crest
+021F11DA 00000038
+
+Wind crest
+021F11DA 00000039
+
+Sun crest
+021F11DA 0000003A
+
+Moon crest
+021F11DA 0000003B
+
+Crank - square
+021F11DA 0000003C
+
+Crank - Hex
+021F11DA 0000003D
+
+Closet key
+021F11DA 0000003E
+
+Emblem key
+021F11DA 0000003F
+
+Stone ring
+021F11DA 00000040
+
+Metal object
+021F11DA 00000041
+
+Survival knife 2
+021F11DA 00000042
+
+Battery
+021F11DA 00000043
+
+Ink ribbons
+021F11DA 00000044
+
+Emblem
+021F11DA 00000045
+
+Gold emblem
+021F11DA 00000046
+
+Musical score - complete
+021F11DA 00000047
+
+Red gemstone
+021F11DA 00000048
+
+Blue gemstone
+021F11DA 00000049
+
+Yellow gemstone
+021F11DA 0000004A
+
+Broken shotgun
+021F11DA 0000004B
+
+Herbicide
+021F11DA 0000004C
+
+Lighter
+021F11DA 0000004D
+
+Serum
+021F11DA 0000004E
+
+Transceiver
+021F11DA 0000004F
+
+Empty acid bottle
+021F11DA 00000050
+
+Water bottle
+021F11DA 00000051
+
+UMB No 3 bottle
+021F11DA 00000052
+
+NP-004 bottle
+021F11DA 00000053
+
+Yellow - 6 bottle
+021F11DA 00000054
+
+UMB No 7 bottle
+021F11DA 00000055
+
+UMB No 10 bottle
+021F11DA 00000056
+
+VP - 017 bottle
+021F11DA 00000057
+
+V jolt bottle
+021F11DA 00000058
+
+Red book
+021F11DA 0000005A
+
+Last book vol 1
+021F11DA 0000005B
+
+Last book vol 2
+021F11DA 0000005C
+
+MO disc
+021F11DA 0000005D
+
+MO disc1
+021F11DA 0000005E
+
+MO disc2
+021F11DA 0000005F
+
+Dog whistle
+021F11DA 00000060
+
+Fuse unit
+021F11DA 00000061
+
+Capsule
+021F11DA 00000062
+
+Jewellery box - white
+021F11DA 00000063
+
+Insecticide spray
+021F11DA 00000064
+
+First aid box
+021F11DA 00000065
+
+Jewellery box - orange
+021F11DA 00000066
+
+Jewellery box - white 2
+021F11DA 00000067
+
+First aid box1
+021F11DA 00000068
+
+First aid box2
+021F11DA 00000069
+
+First aid box3
+021F11DA 00000083
+
+First aid box4
+021F11DA 00000084
+
+Signal rockets
+021F11DA 0000006A
+
+Broken flamethrower
+021F11DA 0000006B
+
+Wooden mount
+021F11DA 0000006C
+
+Slide filter
+021F11DA 0000006D
+
+Control room key
+021F11DA 0000006E
+
+Fuel supply capsule1
+021F11DA 0000006F
+
+Escape dagger
+021F11DA 00000070
+
+Flash grenade
+021F11DA 00000071
+
+Stun gun
+021F11DA 00000072
+
+Bee specimen
+021F11DA 00000073
+
+Lure of a bee
+021F11DA 00000074
+
+Fish hook
+021F11DA 00000075
+
+Lure of a bee + fish hook
+021F11DA 00000076
+
+X-Ray - 'Clark David'
+021F11DA 00000077
+
+X-Ray - 'Gail Holland'
+021F11DA 00000078
+
+Battery pack
+021F11DA 00000079
+
+Shaft
+021F11DA 0000007A
+
+Cylinder
+021F11DA 0000007B
+
+Cylinder shaft
+021F11DA 0000007C
+
+Death mask - no eyes,nose or mouth
+021F11DA 0000007D
+
+Death mask - no eyes
+021F11DA 0000007E
+
+Death mask - no nose
+021F11DA 0000007F
+
+Death mask - mouth
+021F11DA 00000080
+
+Musical score - 1 page
+021F11DA 00000081
+
+Map
+021F11DA 00000082
+
+Slot 2
+
+Silver survival knife (Jill)
+021F11DE 00000001
+
+Grey survival knife (Chris)
+021F11DE 00000002
+
+Handgun - Stars custom 9mm
+021F11DE 00000003
+
+Self defense gun
+021F11DE 00000004
+
+Handgun - .40 S&W
+021F11DE 00000005
+
+Shotgun
+021F11DE 00000006
+
+Grenade Launcher - Normal (Jill)
+021F11DE 00000007
+
+Grenade Launcher - Acid (Jill)
+021F11DE 00000008
+
+Grenade Launcher - Incendiary (Jill)
+021F11DE 00000009
+
+Rocket Launcher
+021F11DE 0000000A
+
+Magnum Revolver
+021F11DE 0000000B
+
+Flame Thrower (Chris)
+021F11DE 0000000C
+
+Assault shotgun
+021F11DE 0000000D
+
+Rocket Launcher - Fire and Forget
+021F11DE 0000000E
+
+Barrys 44 Magnum
+021F11DE 0000000F
+
+Grenade Shells
+021F11DE 00000010
+
+Handgun Magazine
+021F11DE 00000011
+
+Shotgun shells
+021F11DE 00000012
+
+Acid shells
+021F11DE 00000013
+
+Incendiary shells
+021F11DE 00000014
+
+Golden Arrow
+021F11DE 00000015
+
+Book of curse
+021F11DE 00000016
+
+Coin
+021F11DE 00000017
+
+Collar
+021F11DE 00000018
+
+Magnum rounds
+021F11DE 00000019
+
+Broach
+021F11DE 0000001A
+
+Fuel canteen
+021F11DE 0000001B
+
+Arrowhead
+021F11DE 0000001C
+
+Imitation of a key
+021F11DE 0000001D
+
+Residence key - Gallery
+021F11DE 0000001E
+
+Fuel supply capsule
+021F11DE 0000001F
+
+Musical score - incomplete
+021F11DE 00000020
+
+First aid spray
+021F11DE 00000021
+
+Green herb
+021F11DE 00000022
+
+Red herb
+021F11DE 00000023
+
+Blue herb
+021F11DE 00000024
+
+Mixed herb - Green/small
+021F11DE 00000025
+
+Mixed herb - Green/large
+021F11DE 00000026
+
+Mixed herb - Red/green/small
+021F11DE 00000027
+
+Mixed herb - Red/green/large
+021F11DE 00000028
+
+Mixed herb - Blue/green/small
+021F11DE 00000029
+
+Mixed herb - Blue/green/large
+021F11DE 0000002A
+
+Lockpicks
+021F11DE 0000002B
+
+Old key
+021F11DE 0000002C
+
+Sword key
+021F11DE 0000002D
+
+Armor key
+021F11DE 0000002E
+
+Shield key
+021F11DE 0000002F
+
+Helmet key
+021F11DE 00000030
+
+Room 001 key
+021F11DE 00000031
+
+Room 003 key
+021F11DE 00000032
+
+Medal of eagle
+021F11DE 00000033
+
+Medal of wolf
+021F11DE 00000034
+
+Stone & metal object
+021F11DE 00000035
+
+Lab key - Power
+021F11DE 00000036
+
+Master key
+021F11DE 00000037
+
+Star crest
+021F11DE 00000038
+
+Wind crest
+021F11DE 00000039
+
+Sun crest
+021F11DE 0000003A
+
+Moon crest
+021F11DE 0000003B
+
+Crank - square
+021F11DE 0000003C
+
+Crank - Hex
+021F11DE 0000003D
+
+Closet key
+021F11DE 0000003E
+
+Emblem key
+021F11DE 0000003F
+
+Stone ring
+021F11DE 00000040
+
+Metal object
+021F11DE 00000041
+
+Survival knife 2
+021F11DE 00000042
+
+Battery
+021F11DE 00000043
+
+Ink ribbons
+021F11DE 00000044
+
+Emblem
+021F11DE 00000045
+
+Gold emblem
+021F11DE 00000046
+
+Musical score - complete
+021F11DE 00000047
+
+Red gemstone
+021F11DE 00000048
+
+Blue gemstone
+021F11DE 00000049
+
+Yellow gemstone
+021F11DE 0000004A
+
+Broken shotgun
+021F11DE 0000004B
+
+Herbicide
+021F11DE 0000004C
+
+Lighter
+021F11DE 0000004D
+
+Serum
+021F11DE 0000004E
+
+Transceiver
+021F11DE 0000004F
+
+Empty acid bottle
+021F11DE 00000050
+
+Water bottle
+021F11DE 00000051
+
+UMB No 3 bottle
+021F11DE 00000052
+
+NP-004 bottle
+021F11DE 00000053
+
+Yellow - 6 bottle
+021F11DE 00000054
+
+UMB No 7 bottle
+021F11DE 00000055
+
+UMB No 10 bottle
+021F11DE 00000056
+
+VP - 017 bottle
+021F11DE 00000057
+
+V jolt bottle
+021F11DE 00000058
+
+Red book
+021F11DE 0000005A
+
+Last book vol 1
+021F11DE 0000005B
+
+Last book vol 2
+021F11DE 0000005C
+
+MO disc
+021F11DE 0000005D
+
+MO disc1
+021F11DE 0000005E
+
+MO disc2
+021F11DE 0000005F
+
+Dog whistle
+021F11DE 00000060
+
+Fuse unit
+021F11DE 00000061
+
+Capsule
+021F11DE 00000062
+
+Jewellery box - white
+021F11DE 00000063
+
+Insecticide spray
+021F11DE 00000064
+
+First aid box
+021F11DE 00000065
+
+Jewellery box - orange
+021F11DE 00000066
+
+Jewellery box - white 2
+021F11DE 00000067
+
+First aid box1
+021F11DE 00000068
+
+First aid box2
+021F11DE 00000069
+
+First aid box3
+021F11DE 00000083
+
+First aid box4
+021F11DE 00000084
+
+Signal rockets
+021F11DE 0000006A
+
+Broken flamethrower
+021F11DE 0000006B
+
+Wooden mount
+021F11DE 0000006C
+
+Slide filter
+021F11DE 0000006D
+
+Control room key
+021F11DE 0000006E
+
+Fuel supply capsule1
+021F11DE 0000006F
+
+Escape dagger
+021F11DE 00000070
+
+Flash grenade
+021F11DE 00000071
+
+Stun gun
+021F11DE 00000072
+
+Bee specimen
+021F11DE 00000073
+
+Lure of a bee
+021F11DE 00000074
+
+Fish hook
+021F11DE 00000075
+
+Lure of a bee + fish hook
+021F11DE 00000076
+
+X-Ray - 'Clark David'
+021F11DE 00000077
+
+X-Ray - 'Gail Holland'
+021F11DE 00000078
+
+Battery pack
+021F11DE 00000079
+
+Shaft
+021F11DE 0000007A
+
+Cylinder
+021F11DE 0000007B
+
+Cylinder shaft
+021F11DE 0000007C
+
+Death mask - no eyes,nose or mouth
+021F11DE 0000007D
+
+Death mask - no eyes
+021F11DE 0000007E
+
+Death mask - no nose
+021F11DE 0000007F
+
+Death mask - mouth
+021F11DE 00000080
+
+Musical score - 1 page
+021F11DE 00000081
+
+Map
+021F11DE 00000082
+
+Slot 3
+
+Silver survival knife (Jill)
+021F11E2 00000001
+
+Grey survival knife (Chris)
+021F11E2 00000002
+
+Handgun - Stars custom 9mm
+021F11E2 00000003
+
+Self defense gun
+021F11E2 00000004
+
+Handgun - .40 S&W
+021F11E2 00000005
+
+Shotgun
+021F11E2 00000006
+
+Grenade Launcher - Normal (Jill)
+021F11E2 00000007
+
+Grenade Launcher - Acid (Jill)
+021F11E2 00000008
+
+Grenade Launcher - Incendiary (Jill)
+021F11E2 00000009
+
+Rocket Launcher
+021F11E2 0000000A
+
+Magnum Revolver
+021F11E2 0000000B
+
+Flame Thrower (Chris)
+021F11E2 0000000C
+
+Assault shotgun
+021F11E2 0000000D
+
+Rocket Launcher - Fire and Forget
+021F11E2 0000000E
+
+Barrys 44 Magnum
+021F11E2 0000000F
+
+Grenade Shells
+021F11E2 00000010
+Shotgun shells
+021F11E2 00000012
+
+Acid shells
+021F11E2 00000013
+
+Incendiary shells
+021F11E2 00000014
+
+Golden Arrow
+021F11E2 00000015
+
+Book of curse
+021F11E2 00000016
+
+Coin
+021F11E2 00000017
+
+Collar
+021F11E2 00000018
+
+Magnum rounds
+021F11E2 00000019
+
+Broach
+021F11E2 0000001A
+
+Fuel canteen
+021F11E2 0000001B
+
+Arrowhead
+021F11E2 0000001C
+
+Imitation of a key
+021F11E2 0000001D
+
+Residence key - Gallery
+021F11E2 0000001E
+
+Fuel supply capsule
+021F11E2 0000001F
+
+Musical score - incomplete
+021F11E2 00000020
+
+First aid spray
+021F11E2 00000021
+
+Green herb
+021F11E2 00000022
+
+Red herb
+021F11E2 00000023
+
+Blue herb
+021F11E2 00000024
+
+Mixed herb - Green/small
+021F11E2 00000025
+
+Mixed herb - Green/large
+021F11E2 00000026
+
+Mixed herb - Red/green/small
+021F11E2 00000027
+
+Mixed herb - Red/green/large
+021F11E2 00000028
+
+Mixed herb - Blue/green/small
+021F11E2 00000029
+
+Mixed herb - Blue/green/large
+021F11E2 0000002A
+
+Lockpicks
+021F11E2 0000002B
+
+Old key
+021F11E2 0000002C
+
+Sword key
+021F11E2 0000002D
+
+Armor key
+021F11E2 0000002E
+
+Shield key
+021F11E2 0000002F
+
+Helmet key
+021F11E2 00000030
+
+Room 001 key
+021F11E2 00000031
+
+Room 003 key
+021F11E2 00000032
+
+Medal of eagle
+021F11E2 00000033
+
+Medal of wolf
+021F11E2 00000034
+
+Stone & metal object
+021F11E2 00000035
+
+Lab key - Power
+021F11E2 00000036
+
+Master key
+021F11E2 00000037
+
+Star crest
+021F11E2 00000038
+
+Wind crest
+021F11E2 00000039
+
+Sun crest
+021F11E2 0000003A
+
+Moon crest
+021F11E2 0000003B
+
+Crank - square
+021F11E2 0000003C
+
+Crank - Hex
+021F11E2 0000003D
+
+Closet key
+021F11E2 0000003E
+
+Emblem key
+021F11E2 0000003F
+
+Stone ring
+021F11E2 00000040
+
+Metal object
+021F11E2 00000041
+
+Survival knife 2
+021F11E2 00000042
+
+Battery
+021F11E2 00000043
+
+Ink ribbons
+021F11E2 00000044
+
+Emblem
+021F11E2 00000045
+
+Gold emblem
+021F11E2 00000046
+
+Musical score - complete
+021F11E2 00000047
+
+Red gemstone
+021F11E2 00000048
+
+Blue gemstone
+021F11E2 00000049
+
+Yellow gemstone
+021F11E2 0000004A
+
+Broken shotgun
+021F11E2 0000004B
+
+Herbicide
+021F11E2 0000004C
+
+Lighter
+021F11E2 0000004D
+
+Serum
+021F11E2 0000004E
+
+Transceiver
+021F11E2 0000004F
+
+Empty acid bottle
+021F11E2 00000050
+
+Water bottle
+021F11E2 00000051
+
+UMB No 3 bottle
+021F11E2 00000052
+
+NP-004 bottle
+021F11E2 00000053
+
+Yellow - 6 bottle
+021F11E2 00000054
+
+UMB No 7 bottle
+021F11E2 00000055
+
+UMB No 10 bottle
+021F11E2 00000056
+
+VP - 017 bottle
+021F11E2 00000057
+
+V jolt bottle
+021F11E2 00000058
+
+Red book
+021F11E2 0000005A
+
+Last book vol 1
+021F11E2 0000005B
+
+Last book vol 2
+021F11E2 0000005C
+
+MO disc
+021F11E2 0000005D
+
+MO disc1
+021F11E2 0000005E
+
+MO disc2
+021F11E2 0000005F
+
+Dog whistle
+021F11E2 00000060
+
+Fuse unit
+021F11E2 00000061
+
+Capsule
+021F11E2 00000062
+
+Jewellery box - white
+021F11E2 00000063
+
+Insecticide spray
+021F11E2 00000064
+
+First aid box
+021F11E2 00000065
+
+Jewellery box - orange
+021F11E2 00000066
+
+Jewellery box - white 2
+021F11E2 00000067
+
+First aid box1
+021F11E2 00000068
+
+First aid box2
+021F11E2 00000069
+
+First aid box3
+021F11E2 00000083
+
+First aid box4
+021F11E2 00000084
+
+Signal rockets
+021F11E2 0000006A
+
+Broken flamethrower
+021F11E2 0000006B
+
+Wooden mount
+021F11E2 0000006C
+
+Slide filter
+021F11E2 0000006D
+
+Control room key
+021F11E2 0000006E
+
+Fuel supply capsule1
+021F11E2 0000006F
+
+Escape dagger
+021F11E2 00000070
+
+Flash grenade
+021F11E2 00000071
+
+Stun gun
+021F11E2 00000072
+
+Bee specimen
+021F11E2 00000073
+
+Lure of a bee
+021F11E2 00000074
+
+Fish hook
+021F11E2 00000075
+
+Lure of a bee + fish hook
+021F11E2 00000076
+
+X-Ray - 'Clark David'
+021F11E2 00000077
+
+X-Ray - 'Gail Holland'
+021F11E2 00000078
+
+Battery pack
+021F11E2 00000079
+
+Shaft
+021F11E2 0000007A
+
+Cylinder
+021F11E2 0000007B
+
+Cylinder shaft
+021F11E2 0000007C
+
+Death mask - no eyes,nose or mouth
+021F11E2 0000007D
+
+Death mask - no eyes
+021F11E2 0000007E
+
+Death mask - no nose
+021F11E2 0000007F
+
+Death mask - mouth
+021F11E2 00000080
+
+Musical score - 1 page
+021F11E2 00000081
+
+Map
+021F11E2 00000082
+
+Slot 4
+
+Silver survival knife (Jill)
+021F11E6 00000001
+
+Grey survival knife (Chris)
+021F11E6 00000002
+
+Stars custom 9mm
+021F11E6 00000003
+
+Self defense gun
+021F11E6 00000004
+
+Handgun - .40 S&W
+021F11E6 00000005
+
+Shotgun
+021F11E6 00000006
+
+Grenade Launcher - Normal (Jill)
+021F11E6 00000007
+
+Grenade Launcher - Acid (Jill)
+021F11E6 00000008
+
+Grenade Launcher - Incendiary (Jill)
+021F11E6 00000009
+
+Rocket Launcher
+021F11E6 0000000A
+
+Magnum Revolver
+021F11E6 0000000B
+
+Flame Thrower (Chris)
+021F11E6 0000000C
+
+Assault shotgun
+021F11E6 0000000D
+
+Rocket Launcher - Fire and Forget
+021F11E6 0000000E
+
+Barrys 44 Magnum
+021F11E6 0000000F
+
+Grenade Shells
+021F11E6 00000010
+
+Handgun Magazine
+021F11E6 00000011
+
+Shotgun shells
+021F11E6 00000012
+
+Acid shells
+021F11E6 00000013
+
+Incendiary shells
+021F11E6 00000014
+
+Golden Arrow
+021F11E6 00000015
+
+Book of curse
+021F11E6 00000016
+
+Coin
+021F11E6 00000017
+
+Collar
+021F11E6 00000018
+
+Magnum rounds
+021F11E6 00000019
+
+Broach
+021F11E6 0000001A
+
+Fuel canteen
+021F11E6 0000001B
+
+Arrowhead
+021F11E6 0000001C
+
+Imitation of a key
+021F11E6 0000001D
+
+Residence key - Gallery
+021F11E6 0000001E
+
+Fuel supply capsule
+021F11E6 0000001F
+
+Musical score - incomplete
+021F11E6 00000020
+
+First aid spray
+021F11E6 00000021
+
+Green herb
+021F11E6 00000022
+
+Red herb
+021F11E6 00000023
+
+Blue herb
+021F11E6 00000024
+
+Green/small
+021F11E6 00000025
+
+Mixed herb - Green/large
+021F11E6 00000026
+
+Mixed herb - Red/green/small
+021F11E6 00000027
+
+Mixed herb - Red/green/large
+021F11E6 00000028
+
+Mixed herb - Blue/green/small
+021F11E6 00000029
+
+Mixed herb - Blue/green/large
+021F11E6 0000002A
+
+Lockpicks
+021F11E6 0000002B
+
+Old key
+021F11E6 0000002C
+
+Sword key
+021F11E6 0000002D
+
+Armor key
+021F11E6 0000002E
+
+Shield key
+021F11E6 0000002F
+
+Helmet key
+021F11E6 00000030
+
+Room 001 key
+021F11E6 00000031
+
+Room 003 key
+021F11E6 00000032
+
+Medal of eagle
+021F11E6 00000033
+
+Medal of wolf
+021F11E6 00000034
+
+Stone & metal object
+021F11E6 00000035
+
+Lab key - Power
+021F11E6 00000036
+
+Master key
+021F11E6 00000037
+
+Star crest
+021F11E6 00000038
+
+Wind crest
+021F11E6 00000039
+
+Sun crest
+021F11E6 0000003A
+
+Moon crest
+021F11E6 0000003B
+
+Crank - square
+021F11E6 0000003C
+
+Crank - Hex
+021F11E6 0000003D
+
+Closet key
+021F11E6 0000003E
+
+Emblem key
+021F11E6 0000003F
+
+Stone ring
+021F11E6 00000040
+
+Metal object
+021F11E6 00000041
+
+Survival knife 2
+021F11E6 00000042
+
+Battery
+021F11E6 00000043
+
+Ink ribbons
+021F11E6 00000044
+
+Emblem
+021F11E6 00000045
+
+Gold emblem
+021F11E6 00000046
+
+Musical score - complete
+021F11E6 00000047
+
+Red gemstone
+021F11E6 00000048
+
+Blue gemstone
+021F11E6 00000049
+
+Yellow gemstone
+021F11E6 0000004A
+
+Broken shotgun
+021F11E6 0000004B
+
+Herbicide
+021F11E6 0000004C
+
+Lighter
+021F11E6 0000004D
+
+Serum
+021F11E6 0000004E
+
+Transceiver
+021F11E6 0000004F
+
+Empty acid bottle
+021F11E6 00000050
+
+Water bottle
+021F11E6 00000051
+
+UMB No 3 bottle
+021F11E6 00000052
+
+NP-004 bottle
+021F11E6 00000053
+
+UMB No 7 bottle
+021F11E6 00000055
+
+UMB No 10 bottle
+021F11E6 00000056
+
+VP - 017 bottle
+021F11E6 00000057
+
+V jolt bottle
+021F11E6 00000058
+
+Red book
+021F11E6 0000005A
+
+Last book vol 1
+021F11E6 0000005B
+
+Last book vol 2
+021F11E6 0000005C
+
+MO disc
+021F11E6 0000005D
+
+MO disc1
+021F11E6 0000005E
+
+MO disc2
+021F11E6 0000005F
+
+Dog whistle
+021F11E6 00000060
+
+Fuse unit
+021F11E6 00000061
+
+Capsule
+021F11E6 00000062
+
+Jewellery box - whit
+021F11E6 00000063
+
+nsecticide spray
+021F11E6 00000064
+
+First aid box
+021F11E6 00000065
+
+Jewellery box - orange
+021F11E6 00000066
+
+Jewellery box - white 2
+021F11E6 00000067
+
+First aid box1
+021F11E6 00000068
+
+First aid box2
+021F11E6 00000069
+
+First aid box3
+021F11E6 00000083
+
+First aid box4
+021F11E6 00000084
+
+Signal rocket
+021F11E6 0000006A
+
+Broken flamethrower
+021F11E6 0000006B
+
+Wooden mount
+021F11E6 0000006C
+
+Slide filter
+021F11E6 0000006D
+
+Control room key
+021F11E6 0000006E
+
+Fuel supply capsule1
+021F11E6 0000006F
+
+Escape dagger
+021F11E6 00000070
+
+Flash grenade
+021F11E6 00000071
+
+Stun gun
+021F11E6 00000072
+
+Bee specimen
+021F11E6 00000073
+
+Lure of a bee
+021F11E6 00000074
+
+Fish hook
+021F11E6 00000075
+
+Lure of a bee + fish hook
+021F11E6 00000076
+
+X-Ray - 'Clark David'
+021F11E6 00000077
+
+X-Ray - 'Gail Holland'
+021F11E6 00000078
+
+Battery pack
+021F11E6 00000079
+
+Shaft
+021F11E6 0000007A
+
+Cylinder
+021F11E6 0000007B
+
+Cylinder shaft
+021F11E6 0000007C
+
+Death mask - no eyes,nose or mouth
+021F11E6 0000007D
+
+Death mask - no eyes
+021F11E6 0000007E
+
+Death mask - no nose
+021F11E6 0000007F
+
+Death mask - mouth
+021F11E6 00000080
+
+Musical score - 1 page
+021F11E6 00000081
+
+Map
+021F11E6 00000082
